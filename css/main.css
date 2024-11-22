@@ -377,7 +377,7 @@ footer.site-footer,
 
 @media screen and (max-width: 600px) {
 
-  .wrap { padding: 0 12px; }
+  .wrap { padding: 0 20px !important; }
 
   .site-nav {
     position: fixed;
@@ -431,6 +431,13 @@ footer.site-footer,
     clear: both;
     width: auto;
     margin: 0 0 15px; }
+
+  .post-content,
+  .page-content,
+  .home {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
 
 }
 
@@ -1000,4 +1007,44 @@ footer.site-footer {
 .site-footer form {
     margin: 15px auto 5px auto !important;  /* Reduced bottom margin from 10px to 5px */
     max-width: 400px;
+}
+
+/* Base container styles */
+.wrap,
+.wrapper,
+.container,
+.content-wrapper {
+  max-width: 800px;
+  padding: 0 30px !important;
+  margin: 0 auto !important;
+  box-sizing: border-box !important;
+}
+
+/* Mobile styles - using multiple breakpoints for better coverage */
+@media screen and (max-width: 768px) {
+  .wrap,
+  .wrapper,
+  .container,
+  .content-wrapper {
+    padding: 0 20px !important;
+    width: 100% !important;
+    box-sizing: border-box !important;
+  }
+
+  .post-content,
+  .page-content,
+  .home,
+  .post {
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .wrap,
+  .wrapper,
+  .container,
+  .content-wrapper {
+    padding: 0 15px !important;
+  }
 }
