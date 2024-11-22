@@ -9,6 +9,7 @@ instagram_username: spenriche
 tiktok_username: spenriche
 linkedin_url: https://www.linkedin.com/in/spencer-riche/
 youtube_url: https://www.youtube.com/@Spenriche
+favicon: /favicon.ico
 
 # Build settings
 markdown: kramdown
