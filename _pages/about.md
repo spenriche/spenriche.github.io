@@ -6,7 +6,7 @@ includelink: true
 ---
 I am an entrepreneur with over a decade of experience in the investment and construction industries, specializing in real estate private equity. My focus is on acquiring and revitalizing underperforming grocery-anchored retail centers and office buildings in secondary and tertiary markets, driving long-term growth and value creation.
 
-![Alt text](/assets/images/29.jpeg){: .medium-image}
+![Alt text](/assets/images/29.jpeg){: .small-image}
 
 I began my professional journey in the trades, working as a pipe-fitter in the oil and gas industry. This hands-on experience instilled in me the values of discipline, resilience, and a steadfast focus on achieving financial independence. By practicing frugal living and making strategic investments, I transitioned from purchasing, renovating, and managing duplexes and small multi-family properties in Winnipeg to building a diversified portfolio of real estate assets. Over time, the success of these investments, combined with my disciplined savings, enabled me to leave the trades permanently and fully dedicate myself to growing my real estate investment business.
 
