@@ -1,0 +1,18 @@
+@import "minima";
+
+// Override Minima's footer styles completely
+.site-footer {
+  border: none !important;  // First remove all borders
+  border-top: 1px solid #333 !important;  // Then add only the top border
+  
+  // Remove borders from all child elements
+  * {
+    border: none !important;
+  }
+}
+
+// Also target the footer wrapper if it exists
+.footer-wrapper,
+.footer-col-wrapper {
+  border: none !important;
+}

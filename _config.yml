@@ -1,0 +1,24 @@
+# Site settings
+title: Spencer Riche blog
+email: 
+description: "Health, Wealth & Happiness"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: spenriche
+instagram_username: spenriche
+tiktok_username: spenriche
+linkedin_url: https://www.linkedin.com/in/spencer-riche/
+youtube_url: https://www.youtube.com/@Spenriche
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
+include:
+  - _pages
