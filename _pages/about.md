@@ -16,7 +16,7 @@ Beyond real estate, I co-founded [Sure Home Stays](https://www.surehomestays.com
 
 ### Professional Experience
 
-**Co-founder & Managing Partner, R2 Capital Partners Inc.**  
+**Co-founder & Managing Partner, [R2 Capital Partners](https://www.r2capital.ca)**  
 *January 2019 - Present | Redondo Beach, California, USA*  
 R2 Capital Partners Inc. is a privately held real estate investment firm offering diversified exposure to residential and commercial real estate. The company capitalizes on emerging secondary and tertiary markets across North America through a vast network of partnerships and industry-leading technology.
 .
@@ -24,7 +24,7 @@ R2 Capital Partners Inc. is a privately held real estate investment firm offerin
 - Oversee risk management, market research, and related support functions
 - Skills: Asset Management, Private Equity, Debt Financing, Underwriting, Capital Raising, Investment Sales
 
-**Co-founder & Director, Sure Home Stays**  
+**Co-founder & Director, [Sure Home Stays](https://www.surehomestays.com)**  
 *May 2019 - Present | North America*  
 Sure Home Stays is a tech-enabled international hospitality brand and property management company embracing the sharing economy. The company hosts thousands of travelers in luxurious, fully furnished accommodations.
 
@@ -32,7 +32,7 @@ Sure Home Stays is a tech-enabled international hospitality brand and property m
 - Develop marketing strategies and oversee international sales
 - Focus on legal compliance, cross-border transactions, and venture capital
 
-**Pipe-Fitter/Supervisor, SA Energy Group**  
+**Pipe-Fitter/Supervisor, [SA Energy Group](https://www.linkedin.com/company/sa-energy-group/?originalSubdomain=ca)**  
 *November 2017 - October 2018 | Manitoba, Canada*  
 SA Energy Group is a partnership between Robert B. Somerville Co. Ltd. and Aecon Utilities, specializing in large diameter pipeline construction.
 .
@@ -40,14 +40,14 @@ SA Energy Group is a partnership between Robert B. Somerville Co. Ltd. and Aecon
 - Ensured projects were completed on schedule with excellent safety and quality performance
 - Developed skills in project management, construction management, and team leadership
 
-**Sprinkler Fitter, Vipond Inc.**  
+**Sprinkler Fitter, [Vipond Inc.](https://www.vipond.ca/)**  
 *2013 - 2017 | Winnipeg, Canada Area*  
 Vipond specializes in fire protection and security solutions, offering services like fire detection, suppression, and sprinkler system installation.
 - Installed and maintained fire sprinkler systems across various industries
 - Gained expertise in construction safety and fire protection engineering
 - Developed skills in cross-functional team leadership and pre-construction planning
 
-**Defensive End, CFL Prospect, Winnipeg Blue Bombers**  
+**Defensive End, CFL Prospect, [Winnipeg Blue Bombers](https://www.bluebombers.com/)**  
 *2013 - 2015 | Winnipeg, Canada Area*  
 Participated in the Winnipeg Blue Bombers' rookie camp as a multi-award-winning defensive end.
 - 2x CJFL Defensive Lineman of the Year
