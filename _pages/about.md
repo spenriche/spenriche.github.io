@@ -16,6 +16,12 @@ Beyond real estate, I co-founded Sure Home Stays, a tech-enabled international h
 
 Outside of real estate, I am passionate about leveraging technology, machine learning, and robotics to create innovative solutions with real-world impact. My approach emphasizes building meaningful relationships, maintaining physical and mental well-being, and living a purpose-driven life.  
 
+<br>
+
+---
+
+<br>
+
 ### Professional Experience
 
 **Co-founder & Managing Partner, [R2 Capital Partners](https://www.r2capital.ca)**  
