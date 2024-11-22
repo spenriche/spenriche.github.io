@@ -111,3 +111,5 @@ I am passionate about technology, machine learning, and robotics, with a keen in
 **Conclusion**
 
 My journey from a day laborer to an entrepreneur underscores the power of determination, frugality, and the relentless pursuit of financial independence. By challenging traditional paths, embracing opportunities, and taking calculated risks, I've built a life aligned with my values and passions. My grandfather's wisdom about building "a wall between you and the man" continues to guide me, inspiring me to live freely and help others on their own paths to financial freedom.
+
+![Alt text](/assets/images/pipeline.jpg)
