@@ -58,33 +58,6 @@ Think about it:
 
 Living near your properties doesn’t solve problems; it often creates more distractions.
 
----
-## How I Got Started Without Connections
-
-Without knowing anyone or having any local contacts, I decided to dive right in. I booked a flight to **Saint John**, searched Google for every contractor, property manager, and real estate agent I could find, and reached out to all of them. My goal? **To meet as many people as possible and gather actionable insights.**
-
-I booked a hotel near a Tim Hortons, set up back-to-back meetings every 30 minutes for two straight days, and fueled up on coffee while asking every single person the same set of questions:
-- **Which areas would you invest in?**
-- **Where would you buy, and where would you avoid?**
-- **What pitfalls should I watch out for?**
-- **Who are the top contractors and service providers you trust?**
-
-I also made it a point to get a feel for the community. I walked neighborhoods I was considering, chatted with people on the streets, and even rented an Airbnb to explore the area at different times of day. I asked myself:
-- **Would I feel safe here at night?**
-- **Would my family?**
-
-To broaden my network, I connected with local bankers and insurance representatives, joined real estate groups on Facebook, and reached out to other investors in the area. By being persistent, I started to piece together a network of trusted contacts and built a solid Rolodex of professionals who could guide me.
-
----
-
-## Touring Properties and Making Offers
-
-Once I had a good understanding of the market and had built relationships, I spent two more days touring properties with Realtors. I evaluated what made sense, narrowed down my options, and submitted offers. The property I’m writing about was one of those initial investments. After securing it, I set up systems to manage everything remotely.
-
-Now, I meet virtually with property managers once a month to review rent rolls, expenses, and ensure everything is running smoothly. Early on, I managed contractors closely, providing detailed scopes of work and requiring signed agreements to ensure clarity. I avoided paying upfront, maintaining open communication, and relying heavily on referrals to find trustworthy professionals.
-
----
-
 ## How I Got Started Without Connections
 
 Without knowing anyone or having any local contacts, I decided to dive right in. I booked a flight to **Saint John**, searched Google for every contractor, property manager, and real estate agent I could find, and reached out to all of them. My goal? **To meet as many people as possible and gather actionable insights.**
