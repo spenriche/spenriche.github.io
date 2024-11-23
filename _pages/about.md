@@ -12,7 +12,7 @@ I began my professional journey in the trades, working as a pipe-fitter in the o
 
 By practicing frugal living and making strategic investments, I transitioned from purchasing, renovating, and managing duplexes and small multi-family properties in Winnipeg to building a diversified portfolio of real estate assets. Over time, the success of these investments, combined with my disciplined savings, enabled me to leave the trades permanently and fully dedicate myself to growing my real estate investment business.
 
-As my track record grew, I began collaborating with investors to take on larger projects, leveraging my experience and success to scale operations. Today, as co-founder of R2 Capital Partners, I lead operations for a firm managing $65 million in assets across 13 cities in Canada and the United States, with a transaction history exceeding $75 million.
+As my track record grew, I began collaborating with investors to take on larger projects, leveraging my experience and success to scale operations. Today, as co-founder of R2 Capital Partners, I lead operations, managing over $65 million in assets across 13 cities in Canada and the United States, with a transaction history exceeding $75 million.
 
 Beyond real estate, I co-founded Sure Home Stays, a tech-enabled international hospitality brand that embraces the sharing economy. Serving over 10,000 guests across 14+ markets in Canada and the United States, Sure Home Stays specializes in vacation rental management, offering luxurious stays while optimizing property performance.
 

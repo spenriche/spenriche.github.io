@@ -22,9 +22,10 @@ Well, don't just take it from me. Here's Canadian billionaire Kevin O'Leary's op
 
 <div class="video-container">
   <iframe 
-    width="560" 
+    width="100%" 
     height="315" 
     src="https://www.youtube.com/embed/56XYThTXgOQ" 
+    style="max-width: 100%; margin: 0 auto;"
     frameborder="0" 
     allowfullscreen>
   </iframe>

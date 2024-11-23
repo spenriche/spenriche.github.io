@@ -7,6 +7,8 @@ categories:
 Just a week ago, I traded in my lifted, gas-guzzling truck for a practical SUV.
 
 ![Alt text](/assets/images/img_4325.jpg)
+<span style="display: block; text-align: center; font-size: 15px; color: #888; margin-top: 5px; font-style: italic;">Goodbye GMC Sierra</span>
+
 
 Yes, I truly loved that truck. The amount of time and money I invested to make it look "sick" would probably alarm most people, but the joy it brought me leaves no room for regret.
 
@@ -47,3 +49,4 @@ You can find a perfectly reliable vehicle between $8,000 and $12,000 that will s
 It's safe to say I'm happy with my purchase. I highly encourage everyone else driving oversized vehicles to consider doing the same!
 
 ![Alt text](/assets/images/img_7485.jpg)
+<span style="display: block; text-align: center; font-size: 15px; color: #888; margin-top: 5px; font-style: italic;">Hello used 2013 RAV4</span>

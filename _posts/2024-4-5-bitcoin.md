@@ -23,34 +23,31 @@ One of the largest advocates in the Bitcoin space is Michael Saylor, whose insig
 
 In this paper, I aim to share my findings on Bitcoin, detailing its advantages, and offering my perspective on its future as an asset class.
 
-<div class="resources-section">
-    <h2>Resources</h2>
-    <ul>
-        <li>My YouTube <a href="https://youtube.com/playlist?list=YOUR_PLAYLIST_ID" class="highlight">Playlist</a> on Bitcoin</li>
-        
-        <li><a href="https://bitcoin.org/bitcoin.pdf" class="highlight">Bitcoin White Paper</a> - Satoshi Nakamoto</li>
-        
-        <li><a href="https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861" class="highlight">The Bitcoin Standard</a>: The Decentralized Alternative to Central Banking - Saifedean Ammous</li>
-        
-        <li>MIT Course: <a href="https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/" class="highlight">Introduction to Blockchain and Money</a> - Prof. <a href="https://www.sec.gov/biography/gary-gensler" class="highlight">Gary Gensler</a></li>
-        
-        <li>Bitcoin for Beginners: <a href="https://www.youtube.com/watch?v=l1si5ZWLgy0" class="highlight">Bitcoin Explained in Simple Terms</a> - Andreas M. Antonopoulos</li>
-        
-        <li><a href="https://www.congress.gov/bill/116th-congress/house-bill/6154" class="highlight">Crypto-Currency Act Of 2020</a> - U.S. Congress</li>
-        
-        <li><a href="https://www.vaneck.com/us/en/investments/bitcoin-investing/" class="highlight">The Investment Case For Bitcoin</a> - VanEek</li>
-        
-        <li><a href="https://www.fidelitydigitalassets.com/research-and-insights" class="highlight">The Case For Bitcoin</a> - Fidelity</li>
-        
-        <li><a href="https://www.morganstanley.com/ideas/cryptocurrency-bitcoin-what-investors-should-know" class="highlight">The Case For Cryptocurrency</a> - Morgan Stanley</li>
-        
-        <li><a href="https://www.amazon.com/Sovereign-Individual-Mastering-Transition-Information/dp/0684832720" class="highlight">The Sovereign Individual</a>: Mastering the Transition to the Information Age - James Dale Davidson</li>
-        
-        <li><a href="https://bitcoin.org" class="highlight">Bitcoin.org</a> Community, Resources, Tools and History</li>
-        
-        <li><a href="https://www.youtube.com/watch?v=4rvTppy1qLI&list=PL2jAZ0x9H0bQFY6wIbQfnrnIlqMcSHd6X" class="highlight">What is Money Podcast Series</a> - Michael Saylor Series</li>
-    </ul>
-</div>
+## Resources
+
+* My YouTube [Playlist](https://youtube.com/playlist?list=YOUR_PLAYLIST_ID) on Bitcoin
+
+* [Bitcoin White Paper](https://bitcoin.org/bitcoin.pdf) - Satoshi Nakamoto
+
+* [The Bitcoin Standard](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861): The Decentralized Alternative to Central Banking - Saifedean Ammous
+
+* MIT Course: [Introduction to Blockchain and Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/) - Prof. [Gary Gensler](https://www.sec.gov/biography/gary-gensler)
+
+* Bitcoin for Beginners: [Bitcoin Explained in Simple Terms](https://www.youtube.com/watch?v=l1si5ZWLgy0) - Andreas M. Antonopoulos
+
+* [Crypto-Currency Act Of 2020](https://www.congress.gov/bill/116th-congress/house-bill/6154) - U.S. Congress
+
+* [The Investment Case For Bitcoin](https://www.vaneck.com/us/en/investments/bitcoin-investing/) - VanEek
+
+* [The Case For Bitcoin](https://www.fidelitydigitalassets.com/research-and-insights) - Fidelity
+
+* [The Case For Cryptocurrency](https://www.morganstanley.com/ideas/cryptocurrency-bitcoin-what-investors-should-know) - Morgan Stanley
+
+* [The Sovereign Individual](https://www.amazon.com/Sovereign-Individual-Mastering-Transition-Information/dp/0684832720): Mastering the Transition to the Information Age - James Dale Davidson
+
+* [Bitcoin.org](https://bitcoin.org) Community, Resources, Tools and History
+
+* [What is Money Podcast Series](https://www.youtube.com/watch?v=4rvTppy1qLI&list=PL2jAZ0x9H0bQFY6wIbQfnrnIlqMcSHd6X) - Michael Saylor Series
 
 ## Introduction
 

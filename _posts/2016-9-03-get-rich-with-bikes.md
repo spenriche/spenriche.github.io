@@ -7,6 +7,8 @@ categories:
 What if I told you about a unique machine that can transport you anywhere you want to go without requiring gasoline, diesel, or any fuels? A machine that doesn't need oil changes or overpriced car washes—a machine that could save you $2,000 each year on car insurance.
 
 ![Alt text](/assets/images/bike3.jpeg)
+<span style="display: block; text-align: center; font-size: 15px; color: #888; margin-top: 5px; font-style: italic;">Biking to work as pipe-fitter</span>
+
 
 What if I told you that while you operate this machine, it draws energy from your own body, tones your legs and arms, and even gives you a nice tan in the warmer months? Did I mention it's only a few minutes slower than driving a car?
 
@@ -15,6 +17,8 @@ What if I told you that while you operate this machine, it draws energy from you
 Well, for our first frugal living tip, I'm here to tell you that a device offering all these benefits can cost you less than $100. Yes, that's right—$100. It's called a bike! There are hundreds of great bikes available on Kijiji and Craigslist that will cost you less than what you spend on lunch for a week, saving you thousands of dollars and providing immediate benefits.
 
 ![Alt text](/assets/images/bike2.jpeg)
+<span style="display: block; text-align: center; font-size: 15px; color: #888; margin-top: 5px; font-style: italic;">Locking up at Superstore</span>
+
 
 I've been riding my bike for a week now and have only had to drive my car once ($3 spent on gas this week). I've biked to work, the grocery store, the gym, appointments, and even Home Depot. Every time I get on the bike, I fall more in love with it! I wish it hadn't taken me so long to figure this out.
 
@@ -41,6 +45,8 @@ Good news! Pedal Power has just come to Manitoba by storm. For $52 per year, you
 I have yet to see any downsides to riding my bike. Once I do, you'll be the first to know. Until then, I'll keep burning calories and saving money!
 
 ![Alt text](/assets/images/bike.jpeg)
+<span style="display: block; text-align: center; font-size: 15px; color: #888; margin-top: 5px; font-style: italic;">Winnipeg floodway trail</span>
+
 
 Below are two items that have greatly helped me adjust to everyday biking:
 

@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "How to Hack Your Housing & Live For Free!"
+title: "House-Hacking: How to Live for Free"
 date: 2017-07-06
 categories: 
 ---
 
-We're selling our suburban home and moving into a duplex in a far less affluent neighborhood of Winnipeg. This bold move not only slashes our living expenses but also sets the stage for significant financial growth. Here's how it's all unfolding.
+We sold our suburban home and moving into a duplex in a far less affluent neighborhood of Winnipeg. This bold move not only slashes our living expenses but also sets the stage for significant financial growth. Here's how it's all unfolding.
 
 ![Alt text](/assets/images//househack/4.jpg)
+<span style="display: block; text-align: center; font-size: 15px; color: #888; margin-top: 5px; font-style: italic;">The custom built home we sold</span>
 
 ## Living Frugally and Building a Nest Egg
 
@@ -19,7 +20,7 @@ Most people don't fully grasp how compounding interest works, especially when it
 
 For example, I put 20% down on my first home with a 25-year amortization. By making double mortgage payments, I could pay off my mortgage in 8.5 years instead of 25. Many banks also allow annual lump-sum payments, usually 10–20% of the original mortgage balance. If you combine double payments with a 10% annual lump-sum payment, you could be mortgage-free in 4.5 years. That's a dramatic reduction from the original term!
 
-![Alt text](/assets/images//househack/11.jpg)
+![Alt text](/assets/images//househack/11.png)
 
 ## Rethinking Homeownership
 
@@ -35,7 +36,7 @@ Purchasing a home that exceeds your budget can hinder your financial growth, lea
 
 Societal norms and pressures often push people to buy expensive homes early, under the guise of **“success.”** However, this approach can stunt wealth accumulation and limit career or personal growth.
 
-![Alt text](/assets/images//househack/midde.png)
+![Alt text](/assets/images//househack/midde.jpg)
 
 #### Follow the 30% Rule
 
@@ -48,6 +49,8 @@ Choose a property you can add value to and plan to hold for **10+ years**—long
 Consider this: you buy a house for $300,000, put 5% down, and two years later, sell it to “upgrade” to a more expensive home in a “better” neighborhood. By the time you pay 3% in land transfer taxes, legal fees, closing costs, mortgage fees, and 6% realtor fees, plus moving expenses and mortgage pre-payment penalties, you’ve almost entirely lost your equity. Add in the costs of buying back into the market, and you’re left worse off. Real estate requires a long time horizon to spread out these costs.
 
 ![Alt text](/assets/images//househack/fixer.jpg)
+<span style="display: block; text-align: center; font-size: 15px; color: #888; margin-top: 5px; font-style: italic;">Example before and after</span>
+
 
 ## The Springboard to Financial Independence
 
@@ -55,7 +58,7 @@ I recognized that my primary residence was a liability, tying up capital that co
 
 In addition to this first house hack, I purchased a second duplex in Winnipeg’s North End—a story for another blog post. With these two strategic moves, I traded one liability for two income-generating assets, housing three sets of tenants and giving me a free place to live. This shift transformed my housing situation and built a sustainable, scalable path to financial freedom.
 
-![Alt text](/assets/images//househack/m.jpg)
+---
 
 ## What Is House Hacking?
 
@@ -94,6 +97,7 @@ STRs can enhance cash flow and offer flexibility. You can block days for persona
 
 ![Alt text](/assets/images//househack/hh.png)
 
+
 ## Our First House Hack: A Leap of Faith
 
 After realizing that our suburban home was a financial liability, my wife and I decided to pursue house hacking. We spent months educating ourselves on real estate leverage, property management, renovations, and creative financing. We learned everything we could about managing and sourcing tenants, bookkeeping, finding undervalued properties, working with realtors, securing insurance and mortgages for rentals, and financing improvements creatively.
@@ -101,6 +105,8 @@ After realizing that our suburban home was a financial liability, my wife and I 
 Eventually, we found a duplex on the [200 block of Langside St](https://globalnews.ca/news/10117335/winnipeg-police-langside-street-homicide-update-victims-names-4th-fatality/) in Winnipeg—a much rougher area compared to our previous suburban setting. If you're familiar with Winnipeg, you know that this neighborhood is far less polished than the suburbs.
 
 ![Alt text](/assets/images//househack/3.jpeg)
+<span style="display: block; text-align: center; font-size: 15px; color: #888; margin-top: 5px; font-style: italic;">Our new house-hack!</span>
+
 
 ### The Property Details
 
