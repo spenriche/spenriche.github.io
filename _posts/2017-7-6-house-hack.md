@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Hack Your Housing & Live For Free!"
-date: 2018-07-06
+date: 2017-07-06
 categories: 
 ---
 
@@ -218,7 +218,7 @@ Imagine purchasing five duplexes over five years:
 - **Annual Appreciation (3%):** $37,500
 - **Annual Mortgage Paydown (2%):** $25,000
 - **Annual Cash Flow (Assuming 1% of Purchase Price):** $12,500
-- **Total Annual Wealth Accumulation:** **$75,000**
+- **Total Annual Wealth Accumulation:** **$75,000** 
 
 Over time, the properties appreciate, tenants pay down the mortgages, and cash flow increases. This doesn't account for forced appreciation through renovations or potential refinancing opportunities.
 
@@ -244,7 +244,7 @@ This journey wasn't without challenges. Moving into a less affluent neighborhood
 - **Investment Growth:** A scalable strategy for building wealth through real estate.
 - **Life Opportunities:** The ability to start a business, invest in ourselves, and plan for the future without the burden of excessive housing costs.
 
-By selling the suburban home, I unlocked over **$79,000** in trapped equity and eliminated **$2,500** in monthly housing costs. I invested **$16,950** of that equity to purchase and renovate a duplex where we now live virtually rent-free. The remaining **$62,050** went towards acquiring another duplex, and I still had funds left over to start my business, further supported by my savings and [stock portfolio](/2018/01/21/simple-portfolio/). In the long term, this property alone will generate over **$30,000 annually** in cash flow—not to mention the appreciation and tax benefits.
+By selling the suburban home, I unlocked over **$79,000** in trapped equity and eliminated **$2,500** in monthly housing costs. I invested **$16,950** of that equity to purchase and renovate a duplex where we now live virtually rent-free. The remaining **$62,050** went towards acquiring another duplex, and I still had funds left over to start my business, further supported by my savings and [stock portfolio](/2017/01/21/simple-portfolio/). In the long term, this property alone will generate over **$30,000 annually** in cash flow—not to mention the appreciation and tax benefits.
 
 Imagine doing this every year for five years. The position we'd be in would be life-changing.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Frugal Fashion: $1.19 a Shirt?"
-date:   2018-02-02
+date:   2017-02-02
 categories: 
 ---
 
