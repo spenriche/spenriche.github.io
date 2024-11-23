@@ -26,11 +26,11 @@ Below is the straightforward breakdown of my yearly truck expenses:
 
 >**Yearly Truck Expenses:**
 
->Fuel: $4,848  
->Maintenance: $1,500  
->Insurance: $2,000  
->Tires and Accessories: $1,652  
-**Total: $10,000**
+    - Fuel: $4,848  
+    - Maintenance: $1,500  
+    - Insurance: $2,000  
+    - Tires and Accessories: $1,652  
+    **Total: $10,000**
 
 Yes, that's right—I was spending a whopping $10,000 a year to drive a vehicle I already owned! No payments, no interest! I drove that truck for four years—that's an enormous slap in the face totaling $40,000.
 
