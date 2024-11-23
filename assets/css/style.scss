@@ -16,3 +16,13 @@
 .footer-col-wrapper {
   border: none !important;
 }
+
+// Add code block styles
+.highlight,
+pre.highlight,
+.highlighter-rouge .highlight {
+  background-color: #45415e !important;  // Added !important to override Minima
+  border-radius: 5px !important;
+  padding: 15px !important;
+  margin: 15px 0 !important;
+}

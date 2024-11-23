@@ -8,13 +8,17 @@ I am an entrepreneur with over a decade of experience in the investment and cons
 
 ![Alt text](/assets/images/29.jpeg){: .small-image}
 
-I began my professional journey in the trades, working as a pipe-fitter in the oil and gas industry. This hands-on experience instilled in me the values of discipline, resilience, and a steadfast focus on achieving financial independence. By practicing frugal living and making strategic investments, I transitioned from purchasing, renovating, and managing duplexes and small multi-family properties in Winnipeg to building a diversified portfolio of real estate assets. Over time, the success of these investments, combined with my disciplined savings, enabled me to leave the trades permanently and fully dedicate myself to growing my real estate investment business.
+I began my professional journey in the trades, working as a pipe-fitter in the oil and gas industry. This hands-on experience instilled in me the values of discipline, resilience, and a steadfast focus on achieving financial independence. 
+
+By practicing frugal living and making strategic investments, I transitioned from purchasing, renovating, and managing duplexes and small multi-family properties in Winnipeg to building a diversified portfolio of real estate assets. Over time, the success of these investments, combined with my disciplined savings, enabled me to leave the trades permanently and fully dedicate myself to growing my real estate investment business.
 
 As my track record grew, I began collaborating with investors to take on larger projects, leveraging my experience and success to scale operations. Today, as co-founder of R2 Capital Partners, I lead operations for a firm managing $65 million in assets across 13 cities in Canada and the United States, with a transaction history exceeding $75 million.
 
 Beyond real estate, I co-founded Sure Home Stays, a tech-enabled international hospitality brand that embraces the sharing economy. Serving over 10,000 guests across 14+ markets in Canada and the United States, Sure Home Stays specializes in vacation rental management, offering luxurious stays while optimizing property performance.
 
-Outside of real estate, I am passionate about leveraging technology, machine learning, and robotics to create innovative solutions with real-world impact. My approach emphasizes building meaningful relationships, maintaining physical and mental well-being, and living a purpose-driven life.  
+I am a lifelong learner with insatiable curiosity and an avid researcher, passionate about leveraging technology, machine learning, and robotics to create innovative solutions with real-world impact. My approach emphasizes building meaningful relationships, maintaining physical and mental well-being, and living a purpose-driven life.
+
+Outside of work, I enjoy spending time with my wife and our two dogs. I believe in the importance of building both a personal and professional life, striving to maintain this through mindfulness and continuous self-improvement.
 
 
 ---

@@ -235,18 +235,25 @@ footer.site-footer,
 .post-content ol { padding-left: 20px; }
 
 .post pre,
-.post code {
-  border: 1px solid #d5d5e9;
-  background-color: #eef;
-  padding: 8px 12px;
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
-  border-radius: 3px;
-  font-size: 15px;
-  overflow:auto;
+.post code,
+div.highlight,
+.highlight pre,
+.highlighter-rouge .highlight {
+  border: 1px solid #333333 !important;
+  background-color: #1e1e1e !important;
+  color: #c5c5c5 !important;
+  padding: 8px 12px !important;
+  border-radius: 3px !important;
+  font-size: 15px !important;
+  overflow: auto !important;
 }
 
-.post code { padding: 1px 5px; }
+.post pre code,
+.highlight pre code {
+  border: none !important;
+  padding: 0 !important;
+  background-color: transparent !important;
+}
 
 .post ul,
 .post ol { margin-left: 1.35em; }
@@ -258,16 +265,16 @@ footer.site-footer,
 }
 
 /* terminal */
-.post pre.terminal {
-  border: 1px solid #000;
-  background-color: #333;
-  color: #FFF;
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
-  border-radius: 3px;
+.post pre.terminal,
+.post pre.terminal code {
+  background-color: #1e1e1e !important;
+  color: #FFF !important;
+  border: 1px solid #000 !important;
 }
 
-.post pre.terminal code { background-color: #333; }
+.post pre.terminal code {
+  background-color: #1e1e1e;
+}
 
 /* AK custom CSS mods */
 .imgright { float: right; margin-left: 10px; }
@@ -288,10 +295,54 @@ footer.site-footer,
 /* Syntax highlighting styles */
 /* ----------------------------------------------------------*/
 
-.highlight  { background: #ffffff; }
+/* Override ALL highlight backgrounds */
+.highlight,
+.highlight pre,
+.highlight code,
+.highlighter-rouge,
+.highlighter-rouge .highlight,
+.highlighter-rouge pre,
+.highlighter-rouge code,
+pre.highlight,
+code.highlight,
+.language-plaintext,
+.language-markdown,
+.language-html,
+.language-css,
+.language-javascript,
+.language-ruby,
+.language-python,
+div.highlight,
+pre.highlight code,
+figure.highlight {
+    background: #1e1e1e !important;
+    background-color: #1e1e1e !important;
+    color: #c5c5c5 !important;
+    border: 1px solid #333333 !important;
+}
+
+/* Force ALL elements inside highlights to have the same background */
+.highlight *,
+.highlighter-rouge *,
+pre.highlight *,
+code.highlight * {
+    background: #1e1e1e !important;
+    background-color: #1e1e1e !important;
+}
+
+/* Inline code */
+code.highlighter-rouge {
+    background: #1e1e1e !important;
+    background-color: #1e1e1e !important;
+    color: #c5c5c5 !important;
+    border: 1px solid #333333 !important;
+    padding: 2px 5px !important;
+}
+
+/* Keep the syntax highlighting colors */
 .highlight .c { color: #999988; font-style: italic } /* Comment */
-.highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
-.highlight .k { font-weight: bold } /* Keyword */
+.highlight .err { color: #a61717; background-color: transparent !important } /* Error */
+.highlight .k { color: #ffffff; font-weight: bold } /* Keyword */
 .highlight .o { font-weight: bold } /* Operator */
 .highlight .cm { color: #999988; font-style: italic } /* Comment.Multiline */
 .highlight .cp { color: #999999; font-weight: bold } /* Comment.Preproc */
@@ -1047,4 +1098,43 @@ footer.site-footer {
   .content-wrapper {
     padding: 0 15px !important;
   }
+}
+
+/* Remove borders from elements inside code blocks */
+.highlight *,
+.highlighter-rouge *,
+pre.highlight *,
+code.highlight *,
+.highlight pre code,
+.highlight code,
+.highlighter-rouge pre code,
+.highlighter-rouge code {
+    border: none !important;
+    border-radius: 0 !important;
+}
+
+/* Keep border only on the outer container */
+.highlight,
+.highlighter-rouge,
+pre.highlight,
+div.highlight {
+    border: 1px solid #333333 !important;
+    border-radius: 4px !important;
+}
+
+/* Remove interior border */
+.highlight pre,
+pre.highlight {
+  border: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Keep only outer border */
+.highlight,
+div.highlight {
+  border: 1px solid #333333 !important;
+  background-color: #1e1e1e !important;
+  padding: 8px 12px !important;
+  border-radius: 3px !important;
 }
