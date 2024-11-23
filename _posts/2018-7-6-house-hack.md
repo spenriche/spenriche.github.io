@@ -5,14 +5,11 @@ date: 2018-07-06
 categories: 
 ---
 
----
-layout: post
-title: "How to Hack Your Housing & Live For Free!"
----
-
 # How to Hack Your Housing & Live For Free!
 
 We're selling our suburban home and moving into a duplex in a far less affluent neighborhood of Winnipeg. This bold move not only slashes our living expenses but also sets the stage for significant financial growth. Here's how it's all unfolding.
+
+![Alt text](/assets/images//househack/4.jpg)
 
 ## Living Frugally and Building a Nest Egg
 
@@ -23,6 +20,8 @@ From the beginning of my financial journey, I prioritized frugality and discipli
 Most people don't fully grasp how compounding interest works, especially when it works against you. Understanding the amortization schedule of a mortgage is crucial. Mortgage interest is front-loaded, meaning you pay more interest than principal in the early years. By making large principal payments early, you can save astronomical amounts in interest and shave years off your mortgage.
 
 For example, I put 20% down on my first home with a 25-year amortization. By making double mortgage payments, I could pay off my mortgage in 8.5 years instead of 25. Many banks also allow annual lump-sum payments, usually 10–20% of the original mortgage balance. If you combine double payments with a 10% annual lump-sum payment, you could be mortgage-free in 4.5 years. That's a dramatic reduction from the original term!
+
+![Alt text](/assets/images//househack/11.png)
 
 ## Rethinking Homeownership
 
@@ -38,6 +37,8 @@ Purchasing a home that exceeds your budget can hinder your financial growth, lea
 
 Societal norms and pressures often push people to buy expensive homes early, under the guise of **“success.”** However, this approach can stunt wealth accumulation and limit career or personal growth.
 
+![Alt text](/assets/images//househack/midde.png)
+
 #### Follow the 30% Rule
 
 Your total monthly housing expenses—including mortgage payments, taxes, utilities, and maintenance—should ideally be less than **30% of your net income**. Only purchase a home if you can afford to make double mortgage payments while staying within this threshold. If you can’t, the house is simply out of your financial reach.
@@ -48,11 +49,15 @@ Choose a property you can add value to and plan to hold for **10+ years**—long
 
 Consider this: you buy a house for $300,000, put 5% down, and two years later, sell it to “upgrade” to a more expensive home in a “better” neighborhood. By the time you pay 3% in land transfer taxes, legal fees, closing costs, mortgage fees, and 6% realtor fees, plus moving expenses and mortgage pre-payment penalties, you’ve almost entirely lost your equity. Add in the costs of buying back into the market, and you’re left worse off. Real estate requires a long time horizon to spread out these costs.
 
+![Alt text](/assets/images//househack/fixer.jpg)
+
 ## The Springboard to Financial Independence
 
 I recognized that my primary residence was a liability, tying up capital that could be working for me elsewhere. By embracing house hacking, I aimed to dramatically reduce my living expenses and create a financial runway to take calculated risks—like starting my own business—and work toward achieving lean FIRE (financial independence, retire early).
 
 In addition to this first house hack, I purchased a second duplex in Winnipeg’s North End—a story for another blog post. With these two strategic moves, I traded one liability for two income-generating assets, housing three sets of tenants and giving me a free place to live. This shift transformed my housing situation and built a sustainable, scalable path to financial freedom.
+
+![Alt text](/assets/images//househack/m.jpg)
 
 ## What Is House Hacking?
 
@@ -60,31 +65,44 @@ House hacking involves purchasing a property with more than one rentable area wi
 
 ### The Benefits of House Hacking
 
-- **Low Money Down:** As a primary residence, you can qualify for mortgages requiring minimal down payments (e.g., 5% down in Canada or 3.5% FHA loans in the U.S.), increasing your return on investment.
+**Low Money Down:** 
+As a primary residence, you can qualify for mortgages requiring minimal down payments (e.g., 5% down in Canada or 3.5% FHA loans in the U.S.), increasing your return on investment.
 
-- **Renovate with the Bank's Help:** You can bundle purchase and improvement loans, allowing you to improve the property and create equity without using your own money.
+**Renovate with the Bank's Help:** 
+You can bundle purchase and improvement loans, allowing you to improve the property and create equity without using your own money.
 
-- **Subsidize Your Largest Expense:** Housing typically consumes over 40% of income. Reducing this to zero—or even turning it into income—accelerates your personal savings rate significantly.
+**Subsidize Your Largest Expense:** 
+Housing typically consumes over 40% of income. Reducing this to zero—or even turning it into income—accelerates your personal savings rate significantly.
 
-- **Foundation for Opportunities:** Lower living expenses provide a launching pad to take risks, start a business, return to school, or make a career change without the stress of high housing costs.
+**Foundation for Opportunities:** 
+Lower living expenses provide a launching pad to take risks, start a business, return to school, or make a career change without the stress of high housing costs.
 
-Consider applying the **BRRRR Method**—**Buy, Rehab, Rent, Refinance, Repeat**. This strategy enables you to expand your real estate portfolio efficiently. You start by purchasing a property with a low down payment, minimizing your initial outlay. Next, you rehab the property by making targeted improvements that slightly increase its value. Once renovated, you rent it out, generating steady income and enhancing the property's appeal to lenders. With the increased value and rental income, you're in a strong position to refinance the property. This allows you to retrieve your initial investment, freeing up capital. You can then repeat the process annually, using the recovered funds to acquire additional properties. It's like finding an **"infinite money glitch"** in real estate investing!
+**Consider applying the BRRRR Method**—*Buy, Rehab, Rent, Refinance, Repeat*
+This strategy enables you to expand your real estate portfolio efficiently. You start by purchasing a property with a low down payment, minimizing your initial outlay. Next, you rehab the property by making targeted improvements that slightly increase its value. Once renovated, you rent it out, generating steady income and enhancing the property's appeal to lenders. With the increased value and rental income, you're in a strong position to refinance the property. This allows you to retrieve your initial investment, freeing up capital. You can then repeat the process annually, using the recovered funds to acquire additional properties. 
 
-- **Reduced Housing Costs for Life:** When you move, rent out your unit to cover the housing costs of your next home. A few house hacks can eventually cover the expenses of your "forever home."
+*It's like finding an **"infinite money glitch"** in real estate investing!*
 
-- **Short-Term Rental (STR) Strategy:** STRs can enhance cash flow and offer flexibility. You can block days for personal use and convert units back to long-term rentals if needed.
+**Reduced Housing Costs for Life:** 
+When you move, rent out your unit to cover the housing costs of your next home. A few house hacks can eventually cover the expenses of your "forever home."
 
-- **Multi-Unit Listings:** With a multi-unit property, you can list each unit separately and also offer the entire property, appealing to a broader range of travelers.
+**Short-Term Rental (STR) Strategy:** 
+STRs can enhance cash flow and offer flexibility. You can block days for personal use and convert units back to long-term rentals if needed.
 
-- **Educational Experience:** House hacking introduces you to property management, tenant relations, contracts, renovations, bookkeeping, and more.
+**Multi-Unit Listings:** With a multi-unit property, you can list each unit separately and also offer the    entire property, appealing to a broader range of travelers.
 
-- **Creative Financing:** Strategies like seller financing or assumable mortgages can minimize or eliminate out-of-pocket expenses, increasing ROI and preserving funds for future investments.
+**Educational Experience:** House hacking introduces you to property management, tenant relations, contracts, renovations, bookkeeping, and more.
+
+**Creative Financing:** Strategies like seller financing or assumable mortgages can minimize or eliminate out-of-pocket expenses, increasing ROI and preserving funds for future investments.
+
+![Alt text](/assets/images//househack/hh.png)
 
 ## Our First House Hack: A Leap of Faith
 
 After realizing that our suburban home was a financial liability, my wife and I decided to pursue house hacking. We spent months educating ourselves on real estate leverage, property management, renovations, and creative financing. We learned everything we could about managing and sourcing tenants, bookkeeping, finding undervalued properties, working with realtors, securing insurance and mortgages for rentals, and financing improvements creatively.
 
-Eventually, we found a duplex on the 200 block of Langside Street in Winnipeg—a much rougher area compared to our previous suburban setting. If you're familiar with Winnipeg, you know that this neighborhood is far less polished than the suburbs.
+Eventually, we found a duplex on the [200 block of Langside St](https://globalnews.ca/news/10117335/winnipeg-police-langside-street-homicide-update-victims-names-4th-fatality/) in Winnipeg—a much rougher area compared to our previous suburban setting. If you're familiar with Winnipeg, you know that this neighborhood is far less polished than the suburbs.
+
+![Alt text](/assets/images//househack/3.jpeg)
 
 ### The Property Details
 
@@ -117,6 +135,16 @@ After purchasing the property—which coincidentally landed on my 24th birthday�
 The total renovation cost was approximately **$4,100** for materials. Doing the work myself not only saved money but also provided invaluable experience in timelines, costs, and project management. Labor typically doubles the cost of materials, so by investing my time, I effectively saved another **$4,100**.
 
 This low renovation cost amazed me, revealing how a modest investment could significantly increase a property's value. The perceived value of a fully renovated house far exceeds the actual cost, especially when you do the work yourself.
+
+#### Before
+![Alt text](/assets/images//househack/2.jpeg)
+![Alt text](/assets/images//househack/1.jpeg)
+![Alt text](/assets/images//househack/10.jpg)
+
+#### After
+![Alt text](/assets/images//househack/7.jpeg)
+![Alt text](/assets/images//househack/8.jpeg)
+![Alt text](/assets/images//househack/6.jpeg)
 
 ## Overcoming Doubts
 
@@ -180,6 +208,8 @@ By the third year, we planned to refinance the first property into a traditional
 - **House Hacking Approach:** $100,000 with 5% down payments = **20 properties**.
 
 Would you rather control $400,000 in assets or **$2 million**? For me, the choice is clear.
+
+![Alt text](/assets/images//househack/leverage.jpg)
 
 ## The Long-Term Vision
 
