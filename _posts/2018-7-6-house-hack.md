@@ -19,7 +19,7 @@ Most people don't fully grasp how compounding interest works, especially when it
 
 For example, I put 20% down on my first home with a 25-year amortization. By making double mortgage payments, I could pay off my mortgage in 8.5 years instead of 25. Many banks also allow annual lump-sum payments, usually 10–20% of the original mortgage balance. If you combine double payments with a 10% annual lump-sum payment, you could be mortgage-free in 4.5 years. That's a dramatic reduction from the original term!
 
-![Alt text](/assets/images//househack/11.png)
+![Alt text](/assets/images//househack/11.jpg)
 
 ## Rethinking Homeownership
 
