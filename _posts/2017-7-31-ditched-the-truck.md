@@ -4,7 +4,7 @@ title:  "Ditched the Truck"
 date:   2017-07-31
 categories: 
 ---
-Just a week ago, I traded in my lifted, gas-guzzling "manly" truck for a more practical SUV.
+Just a week ago, I traded in my lifted, gas-guzzling truck for a practical SUV.
 
 ![Alt text](/assets/images/img_4325.jpg)
 
