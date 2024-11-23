@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 includelink: true
 ---
-I am an entrepreneur with over a decade of experience in the investment and construction industries, specializing in real estate private equity. My focus is on acquiring and revitalizing underperforming grocery-anchored retail centers and office buildings in secondary and tertiary markets, driving long-term growth and value creation.
+I am an entrepreneur with over a decade of experience in the investment and construction industries, specializing in real estate private equity. My focus is on acquiring and revitalizing underperforming grocery-anchored retail centers and office buildings in secondary and tertiary markets, creating value and driving long-term growth.
 
 ![Alt text](/assets/images/29.jpeg){: .small-image}
 
@@ -121,4 +121,3 @@ Participated in the Winnipeg Blue Bombers' rookie camp as a multi-award-winning 
 
 ---
 
-[Read my story here](/my-story/)

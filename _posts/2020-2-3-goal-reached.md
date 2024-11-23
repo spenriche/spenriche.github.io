@@ -5,13 +5,13 @@ date: 2020-02-03
 categories: 
 ---
 
-Today, I’m writing this post with immense gratitude, excitement, and a deep sense of pride. For those who have been following my journey here and on social media, you likely anticipated this announcement: **I’ve achieved my financial freedom goal—four years ahead of schedule.**
+Today, I’m writing this post with immense gratitude, excitement, and a deep sense of pride. For those who have been following my journey here and on social media, you likely anticipated this announcement: I’ve achieved my financial independance goal [financial independance goal](https://spenriche.github.io/2016/06/09/goal-30/)—four years ahead of schedule.
 
-This milestone feels surreal, especially when I reflect on how different the path turned out compared to the plans I laid just three and a half years ago. Back then, I envisioned a future built around traditional investments in index funds, living off dividends, and a 4% safe withdrawal rate. Yet, here I am, ahead of schedule, having taken an unconventional route that turned out to be more rewarding and transformative than I could have ever imagined.
+This milestone feels surreal, especially when I reflect on how different the path turned out compared to the plans I laid just three and a half years ago. Back then, I envisioned a future built around traditional investments in index funds, living off dividends, and a [2-4% safe withdrawal rate](https://spenriche.github.io/2016/12/02/retirement-math/). Yet, here I am, ahead of schedule, having taken an unconventional route that turned out to be more rewarding and transformative than I could have ever imagined.
 
 ## A Journey of Discovery
 
-When I first shared my financial independence goals, I didn’t anticipate the overwhelming response and engagement that would follow. From this blog to Instagram, my story has reached far beyond what I thought possible. The messages, questions, and heartfelt stories from so many of you have been humbling and inspiring.
+When I first shared my financial independence goals, I didn’t anticipate the overwhelming response and engagement that would follow. From this blog and mainly social media such as [Instagram](https://www.instagram.com/spenriche), my story has reached far beyond what I thought possible. The messages, questions, and heartfelt stories from so many of you have been humbling and inspiring.
 
 I’ve received countless DMs and emails from people sharing how they’ve implemented strategies I discussed—downsizing, real estate investing, house hacking, and adopting a minimalist mindset. It’s been incredible to hear how these steps have transformed lives:
 - Families now spend more time together.
@@ -22,9 +22,9 @@ What has truly touched me is knowing that this journey didn’t just impact stra
 
 ## How I Achieved My Goal
 
-My original plan was to retire at 30 by reducing my expenses and living off investment income. But I achieved my goal much faster because I leaned into **real estate investing** and drastically cut my living expenses. At one point, my monthly "burn rate" was only $500–$600, thanks to house hacking and cutting unnecessary spending.
+My original plan was to [retire at 30](https://spenriche.github.io/2016/06/09/goal-30/) by reducing my expenses and living off investment income. But I achieved my goal much faster because I leaned into [real estate investing](https://spenriche.github.io/2019/09/10/victoria/) and drastically cut my living expenses. At one point, my monthly "burn rate" was only $500–$600, thanks to [house hacking](https://spenriche.github.io/2017/07/06/house-hack/) and cutting unnecessary spending.
 
-By acquiring five rental properties—a mix of duplexes, triplexes, and a single-family home—I created multiple income streams. Initially, I managed the properties myself to maximize cash flow, and as property values rose due to renovations and market appreciation, my equity grew exponentially.
+By acquiring five rental properties—a mix of duplexes, triplexes, and a single-family home—I created multiple income streams. Initially, I managed the properties myself to maximize cash flow, and as property values rose due to renovations and market appreciation, my equity grew considerably.
 
 ### From there, everything snowballed:
 - **Rental Income:** Semi-passive income from my properties provided steady cash flow.
