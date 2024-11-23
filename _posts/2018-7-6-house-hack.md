@@ -5,8 +5,6 @@ date: 2018-07-06
 categories: 
 ---
 
-# How to Hack Your Housing & Live For Free!
-
 We're selling our suburban home and moving into a duplex in a far less affluent neighborhood of Winnipeg. This bold move not only slashes our living expenses but also sets the stage for significant financial growth. Here's how it's all unfolding.
 
 ![Alt text](/assets/images//househack/4.jpg)
