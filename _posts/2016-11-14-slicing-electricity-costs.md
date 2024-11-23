@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Slicing Electricity Costs"
-date:   2017-10-20
+date:   2016-11-14
 categories: 
 ---
 

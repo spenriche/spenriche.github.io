@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Get Rich with Bikes"
-date:   2017-08-03
+date:   2016-09-03
 categories: 
 ---
 What if I told you about a unique machine that can transport you anywhere you want to go without requiring gasoline, diesel, or any fuels? A machine that doesn't need oil changes or overpriced car washes—a machine that could save you $2,000 each year on car insurance.

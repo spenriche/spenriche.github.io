@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ditched the Truck"
-date:   2017-07-31
+date:   2016-08-31
 categories: 
 ---
 Just a week ago, I traded in my lifted, gas-guzzling truck for a practical SUV.
