@@ -230,6 +230,7 @@ Check out this video for a more in-depth look at the BRRRR method for this exact
     width="560" 
     height="315" 
     src="https://www.youtube.com/embed/6D8L_oeyi64"
+    style="max-width: 100%; margin: 0 auto;"
     frameborder="0" 
     allowfullscreen>
   </iframe>
