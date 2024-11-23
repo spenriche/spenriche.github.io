@@ -16,10 +16,13 @@ Intrigued? Let’s dive into the surprisingly simple math that can change your l
 Here’s the secret sauce: figure out how much you’ll need each year in retirement, then save 25 times that amount. Once you hit that target, you can safely withdraw 4% annually, a strategy known as the **Safe Withdrawal Rate (SWR)**. That’s right—your money works for you while you sip margaritas on a beach (or, you know, binge-watch your favorite shows guilt-free).
 
 ### The Math Is Simple:
+- Spend $100,000/year? You’ll need $2,500,000 saved.
 - Spend $40,000/year? You’ll need $1,000,000 saved.
 - Spend $20,000/year? You’re good with $500,000.
 
 This **25x rule** ensures your nest egg grows with inflation, lasts indefinitely, and doesn’t force you to dumpster dive in your golden years.
+
+To be conservative, I'm personally aiming for a 2% SWR. You can always adjust your withdrawl rate based on your lifestyle at the time, but I would never exceed 4% SWR per year. 
 
 ## The Key: Save Big, Spend Smart
 
@@ -27,7 +30,7 @@ If your savings rate is 0%—aka living paycheck to paycheck—retirement is a m
 
 ### Example:
 - Save **50%** of your income, and you’re free in **16 years**.
-- Save **75%**, and you’re out in just **7 years**.
+- Save **75%**, and you’re out in just **7 years**. *(my goal)*
 
 The magic? Every dollar you save is a double win:
 1. It shrinks the amount you need to cover annual expenses.
@@ -84,6 +87,8 @@ The higher the savings rate, the shorter the grind. Extreme? Maybe. But so is sp
 4. **Invest Wisely.** Index funds, real estate, or businesses.
 5. **Say No to Lifestyle Creep.** Keep your spending steady, even as income rises. (hardest to overcome)
 
+![Alt text](/assets/images/lifestyle.jpeg)
+
 ## The Mental Shift Most People Miss
 
 The math is simple, but the mindset shift is harder:
@@ -93,6 +98,8 @@ The math is simple, but the mindset shift is harder:
 
 Most people dismiss this approach as extreme because they’ve bought into a system that equates spending with success. Breaking free means redefining what **enough** looks like—and realizing that freedom beats fleeting luxuries every time.
 
+![Alt text](/assets/images/lifestyle2.jpeg)
+
 ## Final Thoughts: Freedom Is Worth the Effort
 
 Early retirement isn’t about hoarding wealth; it’s about reclaiming time. Every dollar saved buys a piece of your future, whether it’s traveling the world, starting a passion project, or just sleeping in on a Monday.
@@ -100,3 +107,5 @@ Early retirement isn’t about hoarding wealth; it’s about reclaiming time. Ev
 The formula is deceptively simple: **Save more, spend less, invest smart.** Start now, and every step brings you closer to living life on your own terms. Because in the end, early retirement isn’t about math—it’s about freedom.
 
 **Are you ready to do the math that sets you free?**
+
+![Alt text](/assets/images/tree.jpeg)
