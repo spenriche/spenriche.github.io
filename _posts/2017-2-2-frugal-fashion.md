@@ -40,7 +40,7 @@ Brand-new shirts starting at **$1.19 CAD.**
 
 ![Alt text](/assets/images/wordans.jpeg)
 
-**W hy It Matters**  
+**Why It Matters**  
 
 This approach isn’t just about saving money—it’s about opting for simplicity and substance. It’s rejecting the noise of over-marketing and choosing something better: quality craftsmanship, timeless style, and purposeful choices. It’s about feeling confident and comfortable in what you wear, without needing validation from a flashy logo or high price tag.
 
