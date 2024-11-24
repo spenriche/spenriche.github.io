@@ -6,7 +6,7 @@ categories: [AI, Machine Learning, Resources]
 tags: [Python, AI, Machine Learning, Deep Learning, Neural Networks]
 ---
 
-After hitting "publish" on my [last post](https://www.3blue1brown.com/), it hit me—I totally should've included more beginner-friendly resources and tools! If you're just starting out with coding or dipping your toes into the world of artificial intelligence, you might be thinking, "Where do I even start?" Well, fear not! I’ve got your back.
+After hitting "publish" on my [last post](https://spenriche.github.io/ai/llm/business/2024/07/20/llm/), it hit me—I totally should've included more beginner-friendly resources and tools! If you're just starting out with coding or dipping your toes into the world of artificial intelligence, you might be thinking, "Where do I even start?" Well, fear not! I’ve got your back.
 
 In this post, I’ve gathered all the gold nuggets of learning that helped me on my own journey—tools, videos, and guides that simplify the complex and make diving into AI not just manageable, but thrilling. From brilliant creators like [3Blue1Brown](https://www.3blue1brown.com/), who turns mind-bending math into visual magic, to hands-on tools for building your first AI project, this guide is your ultimate cheat sheet to get up to speed fast. Let's go!
 
