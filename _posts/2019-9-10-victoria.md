@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From Trash to Treasure: How I Scaled My Real Estate Portfolio with the BRRRR Method 3,100 km Away"
+title: "$40k Triplex: Scaling My Real Estate Portfolio with the BRRRR Method 3,100 km Away 🏚️→🏠"
 date: 2019-09-10
 categories: 
 ---

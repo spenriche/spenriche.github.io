@@ -28,21 +28,23 @@ Many view owning a house as an investment, but it’s crucial to understand that
 
 ### Key Principles to Guide Homeownership Decisions
 
-#### Avoid Stretching Beyond Your Means
+### Avoid Stretching Beyond Your Means
 
 Purchasing a home that exceeds your budget can hinder your financial growth, leaving little room for savings, investments, or other opportunities.
 
-#### Watch Out for the Middle-Class Trap
+### Watch Out for the Middle-Class Trap
 
 Societal norms and pressures often push people to buy expensive homes early, under the guise of **“success.”** However, this approach can stunt wealth accumulation and limit career or personal growth.
 
 ![Alt text](/assets/images//househack/midde.jpg)
 
-#### Follow the 30% Rule
+### Follow the 30% Rule
 
-Your total monthly housing expenses—including mortgage payments, taxes, utilities, and maintenance—should ideally be less than **30% of your net income**. Only purchase a home if you can afford to make double mortgage payments while staying within this threshold. If you can’t, the house is simply out of your financial reach.
+Most lenders require that your monthly mortgage payments (excluding property taxes, utilities, and maintenance)—remain below **30% of your net income.**
 
-#### Purchase Something You Can Improve and Hold Long-Term
+I recommend going a step further: only purchase a home if you can comfortably afford to make **double the mortgage payments** while still staying within this threshold. If you can't, it's a clear sign that the house is beyond your financial means.
+
+### Purchase Something You Can Improve and Hold Long-Term
 
 Choose a property you can add value to and plan to hold for **10+ years**—longer is better. Most people underestimate the significant transaction costs associated with real estate, which quickly erode wealth.
 
