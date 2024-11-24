@@ -1,24 +1,24 @@
 ---
 layout: post
-title: "Goal Reached: Four Years Ahead of Schedule"
+title: "FI Goal Reached: Four Years Ahead of Schedule"
 date: 2020-02-03
 categories: 
 ---
 
-Today, I’m writing this post with immense gratitude, excitement, and a deep sense of pride. For those who have been following my journey here and on social media, you likely anticipated this announcement: I’ve achieved my financial independance goal [financial independance goal](https://spenriche.github.io/2016/06/09/goal-30/)—four years ahead of schedule.
+Today, I’m writing this post with immense gratitude, and excitement. For those who have been following my journey here and on social media, you likely anticipated this announcement: I’ve achieved my financial independance goal [financial independance goal](https://spenriche.github.io/2016/06/09/goal-30/)—four years ahead of schedule.
 
-This milestone feels surreal, especially when I reflect on how different the path turned out compared to the plans I laid just three and a half years ago. Back then, I envisioned a future built around traditional investments in index funds, living off dividends, and a [2-4% safe withdrawal rate](https://spenriche.github.io/2016/12/02/retirement-math/). Yet, here I am, ahead of schedule, having taken an unconventional route that turned out to be more rewarding and transformative than I could have ever imagined.
+This milestone feels surreal, especially when I reflect on how different the path turned out compared to the plans I laid just three and a half years ago. Back then, I envisioned a future built around traditional investments in low-cost index funds, living off dividends, and a [2-4% safe withdrawal rate](https://spenriche.github.io/2016/12/02/retirement-math/). Yet, here I am, ahead of schedule, having taken an unconventional route that turned out to be more rewarding and transformative than I could have ever imagined.
 
 ## A Journey of Discovery
 
 When I first shared my financial independence goals, I didn’t anticipate the overwhelming response and engagement that would follow. From this blog and mainly social media such as [Instagram](https://www.instagram.com/spenriche), my story has reached far beyond what I thought possible. The messages, questions, and heartfelt stories from so many of you have been humbling and inspiring.
 
-I’ve received countless DMs and emails from people sharing how they’ve implemented strategies I discussed—downsizing, real estate investing, house hacking, and adopting a minimalist mindset. It’s been incredible to hear how these steps have transformed lives:
-- Families now spend more time together.
-- Parents no longer miss their kids’ milestones.
-- Individuals feel more confident about their futures.
+I’ve received countless DMs and emails from people sharing how they’ve implemented strategies I discussed—downsizing, real estate investing, house hacking, and adopting a minimalist mindset. It’s been incredible to hear how these steps have helped transformed lives:
+- Families spending more time together. (parents no longer missing their kids' milestones.)
+- Individuals feeling more confident about their futures.
+- People quitting their jobs to pursue more fulfilling careers/passions.
 
-What has truly touched me is knowing that this journey didn’t just impact strangers. Personal friends have embraced similar changes and achieved remarkable transformations. One close friend sold his primary residence, downgraded to a multifamily property, and began investing in rentals. He even left his previous career to pursue a more fulfilling path by returning to University. Witnessing his journey, as well as the journeys of so many others, has made this all the more meaningful.
+What has been especially meaningful to me is knowing that this journey didn’t just impact strangers. Personal friends have embraced similar changes and achieved remarkable transformations. One close friend sold his primary residence, downgraded to a multifamily property, and began investing in rentals. He even left his previous career to pursue a more fulfilling path by returning to University. Witnessing his journey, as well as the journeys of so many others, has made this all the more meaningful.
 
 ## How I Achieved My Goal
 
