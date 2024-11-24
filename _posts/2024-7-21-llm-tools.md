@@ -4,7 +4,6 @@ title: "Essential Tools for AI and Machine Learning 📚"
 date: 2024-07-21
 categories: [AI, Machine Learning, Resources]
 tags: [Python, AI, Machine Learning, Deep Learning, Neural Networks]
-author: Your Name
 ---
 
 After hitting "publish" on my [last post](https://www.3blue1brown.com/), it hit me—I totally should've included more beginner-friendly resources and tools! If you're just starting out with coding or dipping your toes into the world of artificial intelligence, you might be thinking, "Where do I even start?" Well, fear not! I’ve got your back.
@@ -155,6 +154,7 @@ Creating a portfolio demonstrates your skills to potential employers or collabor
 
 #### 11.1 Building GPT from Scratch
 - Explore GitHub repositories and tutorials.
+- Andrej Karpathy's video series on building GPT from scratch. [Video](https://www.youtube.com/watch?v=kCc8FmEb1nY&t)
 
 #### Key Concepts:
 - Tokenization
