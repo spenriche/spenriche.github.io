@@ -11,16 +11,16 @@ layout: null
         {% else %}
         <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
         {% endif %}
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
     {% endfor %}
     {% for page in site.pages %}
     {% if page.layout != null and page.layout != 'feed' and page.url != '/sitemap.xml' %}
     <url>
         <loc>{{ site.url }}{{ page.url }}</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
     {% endif %}
     {% endfor %}
