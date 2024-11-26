@@ -9,10 +9,8 @@ categories:
 
 ![Alt text](/assets/images/btc/1.jpg)
 
-<br>
-
 ---
-<br> 
+
 
 ## Forward
 Over the last five months, I have dedicated well over 100 hours to studying and researching Bitcoin. My purpose in doing so was to gain a comprehensive understanding of this asset class before making any investment, much like I do with all my previous investments. For me, the most beneficial way to determine whether an investment is viable is to spend several hundred, if not thousands of hours researching it thoroughly. By examining an investment from every angle and then regurgitating my findings into a paper, I find that it helps me better understand and organize my thinking, allowing me to see clearly before making any investment decisions. Therefore, the purpose of this paper is to present my findings and highlight my opinion on Bitcoin as an asset class.
@@ -55,11 +53,9 @@ In the rapidly evolving landscape of global finance, Bitcoin emerges as a revolu
 
 #### [*“There is no second best” - Michael Saylor*](https://www.youtube.com/watch?v=S3T4nhtHxOA)
 
-<br>
 
 ---
 
-<br>
 
 ## 1. Security and Decentralization: The Impenetrable Network  
 Bitcoin's foremost advantage lies in its robust security and decentralized architecture. As the world's most secure decentralized digital monetary network, Bitcoin is fortified against hacking, fraud, and seizure by any entity, including governments. Its proof-of-work consensus mechanism and vast network of miners provide a security model that is resilient against attacks, safeguarding users' assets with unparalleled reliability.
@@ -107,8 +103,6 @@ The Bitcoin network has many stakeholders who constantly monitor for unusual act
 
 In summary, while a theoretical 51% attack on the Bitcoin network is possible, the financial, computational, and practical challenges make it highly unlikely. The network's design and the economic incentives aligned against such attacks help secure it from these threats.
 
-<br>
-
 ### Confiscation
 Bitcoin’s resistance to confiscation stems from its decentralized and cryptographic nature. Here’s an in-depth explanation of why Bitcoin can't be easily confiscated:
 
@@ -139,8 +133,6 @@ Because Bitcoin exists on the blockchain, it is not confined to any physical loc
 
 Bitcoin transactions and the network’s security are based on advanced cryptographic principles. This makes it virtually impossible to hack or alter the blockchain without possessing the private keys. Any attempt to seize Bitcoin without the private keys would require breaking this cryptographic security, which is currently infeasible with existing technology.
 
-<br>
-
 ### Limitations and Considerations 
 
 While Bitcoin has these attributes that make it resistant to confiscation, it’s important to acknowledge some limitations and considerations:
@@ -153,7 +145,7 @@ While Bitcoin has these attributes that make it resistant to confiscation, it’
 
 In other words, the only way any entity can access your bitcoin is by knowing your 12 or 24-word seed phrase, which you can memorize. Without you revealing each word in the correct order, no one can access your assets. This marks the first time in history that property cannot be forcibly taken from an individual. Throughout history, wealthy kings and pharaohs were buried with their physical wealth—gold, jewels, and more. Bitcoin is the first asset that can truly go to the grave with you.
 
-<br>
+---
 
 ## 2. Economic Sovereignty: Beyond Censorship and Inflation  
 
@@ -183,7 +175,7 @@ Bitcoin operates transparently based on open-source code without centralized con
 
 In essence, Bitcoin is seen as superior because it is a truly decentralized network with a capped supply and no central control points. Unlike companies that can dilute shares, be mismanaged, or fail entirely, Bitcoin's value comes from its pristine monetary properties, making it immune to factors that can undermine stocks.
 
-<br>
+---
 
 ## 3. Superior Store of Value: Digital Gold
 Bitcoin has been aptly termed "digital gold" due to its ability to store and appreciate value over time. Historically, Bitcoin has outperformed major asset classes, including gold, stocks, and real estate, with an astonishing cumulative return since inception. This performance is anchored in its limited, known supply which mimics the scarcity and appreciation potential of well-located real estate, yet with greater transferability and divisibility.
@@ -234,7 +226,7 @@ Bitcoin: Bitcoin is increasingly recognized as digital gold due to its finite su
 
 In summary, while gold has been a trusted store of value for centuries, Bitcoin offers several advantages in terms of divisibility, transparency, portability, security, fixed supply, and accessibility. These features position Bitcoin as a strong competitor to gold, especially in a digital age where efficiency and technological integration are paramount. As more retail and institutional investors recognize these benefits, Bitcoin is likely to see increased adoption and acceptance as a superior asset for preserving wealth and conducting transactions.
 
-<br>
+---
 
 ## 4. Technological Supremacy: The First True Digital Property
 As the first asset that can be transmitted seamlessly across the globe without intermediaries, Bitcoin introduces a new paradigm of property rights in cyberspace. It is teleportable, divisible, and operates on a trustless system where transactions are irreversible and recorded on an immutable public ledger, fostering transparency and trust.
@@ -257,7 +249,7 @@ Real estate transactions can take months or even years to execute. If you wanted
 
 One of the significant disadvantages of real estate is that it cannot be hidden. High-value properties often draw attention, potentially making the owner a target for legal actions, theft, or other risks. Bitcoin offers a level of discretion and privacy that real estate cannot. With Bitcoin, you can manage and move your wealth discreetly, reducing the likelihood of becoming a target.
 
-<br>
+---
 
 ### 5. Unstoppable Adoption: The Network Effects
 Bitcoin benefits from profound network effects as each additional user enhances the value and security of the network. It is the most widely recognized and utilized cryptocurrency, with increasing adoption by individuals, corporations, institutional investors, and even some governments as a strategic asset and reserve currency.
@@ -296,7 +288,7 @@ Increased trading activity, with daily volumes growing from $3 billion in 2018 t
 
 ![Alt text](/assets/images/btc/2.png)
 
-<br>
+---
 
 ## 6. The Promise of Digital Money: A Global Currency
 Bitcoin is not just an investment; it is the foundation of a potential global monetary system that offers free, instant, and borderless transactions. This capability makes Bitcoin an invaluable tool for global remittances and financial inclusion, particularly in regions with unstable currencies or restrictive financial systems.
@@ -323,12 +315,12 @@ Bitcoin's digital nature means that anyone with a smartphone and internet access
 
 In a world where traditional financial systems can be unstable, restrictive, or outright hostile, Bitcoin presents a compelling alternative. It offers security against hyperinflation, protection from confiscation, ease of transport, and unprecedented accessibility. As a potential global currency, Bitcoin holds the promise of a more inclusive and resilient financial future.
 
-<br>
+---
 
 ## 7. Institutional and Corporate Adoption: Legitimizing Bitcoin
 The growing interest and investment in Bitcoin by institutional players and major corporations are further legitimizing its role as a store of value. Companies like MicroStrategy and nations are increasingly integrating Bitcoin into their financial strategies, which not only enhances its market stability but also encourages wider acceptance.
 
-<br>
+---
 
 ## 8. Bitcoin's Performance
 
@@ -340,7 +332,7 @@ As more institutional investors, corporations, and even nation-states embrace Bi
 
 #### Predictions from [*Cathie Wood*](https://www.youtube.com/watch?v=K5NB8MHe3Nw) & [*Chamath Palihapitiya*](https://www.youtube.com/watch?v=PYrOjWnT3XI)
 
-<br>
+---
 
 ## 9. The Case for Bitcoin: A Modern Store of Wealth (Intrinsic Value)
 
@@ -392,6 +384,8 @@ Bitcoin and the broader cryptocurrency industry have had a checkered history, ta
 
 As the industry matures, regulated and local exchanges such as Coinbase, PayPal, Square, CashApp, Interactive Brokers, Wealthsimple, and more now offer safer options for buying Bitcoin. While these services are convenient for purchasing Bitcoin, it’s prudent to withdraw your holdings to a cold storage wallet once they exceed a certain amount, such as $500.
 
+---
+
 ## My Bitcoin Setup
 
 ![Alt text](/assets/images/btc/4.jpg)
@@ -424,7 +418,6 @@ Earn $20 by using the above referral code and buying $100 worth of bitcoin!
 
 ![Alt text](/assets/images/btc/5.png)
 
-<br>
 
 
 #### Non-KYC Bitcoin Purchases
@@ -443,11 +436,9 @@ By following these practices, you can buy and store Bitcoin securely, safeguardi
 
 ![Alt text](/assets/images/btc/6.jpg)
 
-<br>
 
 ---
 
-<br>
 
 ### Why Run Your Own Bitcoin Node?
 Running your own Bitcoin node provides enhanced security, privacy, and control over your Bitcoin transactions. By independently verifying all transactions and blocks, you ensure the integrity and validity of your Bitcoin activity without relying on third parties. This autonomy enhances your privacy, as it keeps your financial activities hidden from external services. Running a node also contributes to the decentralization and robustness of the Bitcoin network, making it more resilient against attacks. While running a node is not required for transacting with Bitcoin—since transactions can be conducted through wallets that connect to external nodes—it is highly beneficial for those who prioritize security, privacy, and full control over their Bitcoin experience.
