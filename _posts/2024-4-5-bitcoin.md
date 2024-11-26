@@ -49,6 +49,8 @@ In this paper, I aim to share my findings on Bitcoin, detailing its advantages, 
 
 * [What is Money Podcast Series](https://www.youtube.com/watch?v=4rvTppy1qLI&list=PL2jAZ0x9H0bQFY6wIbQfnrnIlqMcSHd6X) - Michael Saylor Series
 
+* [Satoshi’s Forum Posts](https://satoshi.nakamotoinstitute.org/posts/) Want to dive into Bitcoin’s origins?
+
 ## Introduction
 
 In the rapidly evolving landscape of global finance, Bitcoin emerges as a revolutionary asset class, distinctively poised to redefine the essence of monetary systems for the digital age. This paper delves into the multitude of reasons why Bitcoin is arguably the superior asset, devoid of a close second, leveraging its technological prowess, economic principles, and unprecedented market performance. Grounded in extensive research, we will explore how Bitcoin is not merely an alternative but the epitome of digital financial sovereignty.
