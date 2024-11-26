@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Spencer Riche | About
 permalink: /about/
 includelink: true
 ---
