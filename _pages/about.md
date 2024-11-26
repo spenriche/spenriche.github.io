@@ -5,7 +5,9 @@ browser_title: Spencer Riche | About  # This will be used for the browser tab
 permalink: /about/
 includelink: true
 ---
-I am an entrepreneur with over a decade of experience in the investment and construction industries, specializing in real estate private equity. My focus is on acquiring and revitalizing underperforming grocery-anchored retail centers and office buildings in secondary and tertiary markets, creating value and driving long-term growth.
+Pursuing health, wealth, happiness, and entrepreneurship through the lens of an contrarian opportunist. Explore strategies for growth and impact.
+
+I am an entrepreneur with over a decade of experience in the investment and construction industries, specializing in real estate investment and redevelopment. My focus is on acquiring and revitalizing underperforming grocery-anchored retail centers and office buildings in secondary and tertiary markets across North America, creating value and driving long-term growth.
 
 ![Alt text](/assets/images/29.jpeg){: .small-image}
 
