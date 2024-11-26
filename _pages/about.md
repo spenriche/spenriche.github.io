@@ -5,7 +5,7 @@ browser_title: Spencer Riche | About  # This will be used for the browser tab
 permalink: /about/
 includelink: true
 ---
-Pursuing health, wealth, happiness, and entrepreneurship through the lens of an contrarian opportunist. Explore strategies for growth and impact.
+[Pursuing health, wealth, happiness, and entrepreneurship through the lens of an contrarian opportunist. Explore strategies for growth and impact.](#mission)
 
 I am an entrepreneur with over a decade of experience in the investment and construction industries, specializing in real estate investment and redevelopment. My focus is on acquiring and revitalizing underperforming grocery-anchored retail centers and office buildings in secondary and tertiary markets across North America, creating value and driving long-term growth.
 
@@ -124,3 +124,41 @@ Participated in the Winnipeg Blue Bombers' rookie camp as a multi-award-winning 
 
 ---
 
+## <a id="mission"></a>"Pursuing health, wealth, happiness, and entrepreneurship through the lens of an contrarian opportunist. Explore strategies for growth and impact."
+
+This phrase outlines my mindset and approach to personal and professional development. Here's how I break it down:
+
+### 1. Pursuing health, wealth, happiness, and entrepreneurship
+
+These represent four pillars of a fulfilling life:
+
+- **Health**: Physical, mental, and emotional well-being. Prioritizing fitness, nutrition, and longevity.
+- **Wealth**: Financial stability, growth, and freedom. Building assets that generate income and enable independence.
+- **Happiness**: Emotional satisfaction, purpose, and relationships that bring joy and meaning.
+- **Entrepreneurship**: Creating value through innovation, solving problems, and seizing opportunities.
+
+### 2. Through the lens of a contrarian opportunist
+
+A contrarian is someone who challenges the status quo, often going against conventional wisdom. They look for opportunities where others see risk or dismissal.
+
+An opportunist identifies and capitalizes on favorable circumstances, turning challenges into advantages.
+
+Together, a contrarian opportunist actively seeks undervalued opportunities or unorthodox approaches to achieve success in these four pillars.
+
+### 3. Explore strategies for growth and impact
+
+- **Growth**: Personal, financial, or entrepreneurial development. Learning new skills, adapting to change, and constantly evolving to become better in all aspects of life.
+- **Impact**: Leaving a meaningful legacy, contributing positively to society, and influencing others through actions and innovations.
+
+### What it means in practice
+
+- **Health**: Experiment with biohacking or alternative health strategies that are not yet mainstream.
+- **Wealth**: Invest in overlooked markets or assets others avoid, such as niche industries or secondary/tertiary real estate markets.
+- **Happiness**: Build a lifestyle focused on intrinsic goals rather than materialistic or societal expectations.
+- **Entrepreneurship**: Start ventures in areas dismissed by others, such as underdog technologies, underserved markets, or disruptive business models.
+
+### Core Idea
+
+This approach encourages questioning traditional norms, identifying hidden opportunities, and leveraging unorthodox strategies to achieve comprehensive personal and professional success. It's about not following the herd and instead creating a unique path toward growth and impact.
+
+![Alt text](/assets/images/sg.png)
