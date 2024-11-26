@@ -2,7 +2,17 @@
     <meta charset="utf-8">
     <meta name="google-site-verification" content="pSOgRSFpdevlzOUnbCDse6AshvzcYaaDo3R9CXTiO6o" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <title>
+      {% if page.browser_title %}
+        {{ page.browser_title }}
+      {% elsif page.title %}
+        {{ page.title }}
+      {% elsif page.url == '/' %}
+        {{ site.home_browser_title }}
+      {% else %}
+        {{ site.title }}
+      {% endif %}
+    </title>
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="{{ site.description }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
