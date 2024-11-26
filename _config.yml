@@ -1,6 +1,6 @@
 # Site settings
-title: Spencer Riche  # This will be used for navigation
-browser_title: Spencer Riche | Blog  # This will be used for the browser tab
+title: "Spencer Riche" # This is used for navigation/display
+home_browser_title: "Spencer Riche | Blog"  # This will be used for the browser tab on home page
 email: 
 description: Health, Wealth & Happiness
 baseurl: "" # the subpath of your site, e.g. /blog
