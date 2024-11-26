@@ -13,13 +13,15 @@ categories:
 
 
 ## Forward
-Over the last five months, I have dedicated well over 100 hours to studying and researching Bitcoin. My purpose in doing so was to gain a comprehensive understanding of this asset class before making any investment, much like I do with all my previous investments. For me, the most beneficial way to determine whether an investment is viable is to spend several hundred, if not thousands of hours researching it thoroughly. By examining an investment from every angle and then regurgitating my findings into a paper, I find that it helps me better understand and organize my thinking, allowing me to see clearly before making any investment decisions. Therefore, the purpose of this paper is to present my findings and highlight my opinion on Bitcoin as an asset class.
+Over the last five months, I have dedicated well over 100 hours to studying and researching Bitcoin. My purpose in doing so was to gain a comprehensive understanding of this asset class before making any investment, much like I do with all my previous investments. For me, the most beneficial way to determine whether an investment is viable is to spend several hundred hours researching it thoroughly. By examining an investment from every angle and then regurgitating my findings into a paper, I find that it helps me better understand and organize my thinking, allowing me to see clearly before making any investment decisions. Therefore, the purpose of this paper is to present my findings and highlight my opinion on Bitcoin as an asset class.
 
 Throughout my research, I have delved into books, watched securities commissions discuss Bitcoin in detail, and read government bills and papers regarding its introduction. I have accumulated a playlist of some of the most thought-provoking videos and explainers on Bitcoin as an asset class, which I will continue to add to for those who wish to follow in the same steps.
 
 One of the largest advocates in the Bitcoin space is Michael Saylor, whose insights have resonated throughout the community. He famously says, "Everyone gets Bitcoin at the price they deserve." Had I looked into Bitcoin earlier and appreciated it instead of dismissing it as hype, I would have been better off financially. Another of his notable quotes is, "Those who study Bitcoin own it; those who do not, dismiss it." This rings true for me because once you investigate and research Bitcoin, understand its protocols, and grasp its goals and purposes, it becomes difficult to dispute its potential as a prevailing asset and a revolutionary technology poised to change the world.
  
 In this paper, I aim to share my findings on Bitcoin, detailing its advantages, and offering my perspective on its future as an asset class.
+
+>   Most people will spend 80,000 hours working to earn money, but won't spend 100 hours learning how to keep it.
 
 ## Resources
 
