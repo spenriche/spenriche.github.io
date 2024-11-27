@@ -72,11 +72,9 @@ Our inaugural crowdfunding offering on [Addy](https://app.addyinvest.com/R2Capit
 
 The offering promised a double-digit annualized dividend and an impressive 16% IRR (Internal Rate of Return) to investors. Within just two months, we surpassed our original target raise of $375,000, securing $452,000 from 442 investors. On average, each investor contributed $1,023, demonstrating both the broad appeal and accessibility of this model. Demand was so strong that we not only exceeded our goal but also faced overwhelming requests for additional opportunities.
 
-![Alt text](/assets/images/addy/2.png)
-
 This incredible response underscores the untapped potential of fractional ownership. Everyday investors are eager to participate in high-quality real estate opportunities that deliver strong returns without the traditional barriers of large capital requirements or operational complexity. Our first success is a testament to the immense appetite for accessible, high-yield real estate investments—and it's just the beginning.
 
-![Alt text](/assets/images/addy/3.png)
+![Alt text](/assets/images/addy/aa.png)
 
 ---
 
