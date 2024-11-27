@@ -203,7 +203,7 @@ Understanding the capital stack is essential when structuring real estate deals,
 - **Preferred Equity**: Investors receive preferential treatment in profit distributions before common equity holders but after debt obligations are met.
 - **Common Equity**: Represents ownership stake. These investors take on the highest risk but also have the potential for the highest returns.
 
-![Alt text](/assets/images/vtb/5.png)
+![Alt text](/assets/images/vtb/5.PNG)
 
 ### Combining VTBs with Equity Investments
 
