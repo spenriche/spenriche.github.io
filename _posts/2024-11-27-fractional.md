@@ -78,7 +78,9 @@ This incredible response underscores the untapped potential of fractional owners
 
 ---
 
-Fractional ownership is breaking down the barriers of traditional real estate, bridging the gap between everyday investors and high-yield assets. By embracing technology and leveraging the power of shared ownership, we are witnessing a transformation in how properties are bought, sold, and valued. Whether you're a seasoned investor or just starting, fractional ownership offers the liquidity, flexibility, and global access you need to thrive in today's market.
+Fractional ownership is breaking down the barriers of traditional real estate, bridging the gap between everyday investors and high-yield assets. By embracing technology and leveraging the power of shared ownership, we are witnessing a transformation in how properties are bought, sold, and valued. Whether you're a seasoned investor or just starting, fractional ownership offers liquidity, flexibility, and global access.
+
+This model isn't just ideal for busy individuals looking to build long-term wealth and get exposure to the real estate asset class. It’s also a game-changer for seasoned investors, developers, general partners (GPs), and new investors with big ideas but limited capital.  Soon, listing an investment opportunity online, raising $1,000 each from 1,500 investors, and securing $1.5 million for projects in the matter of weeks will be the new normal. This innovation won’t just revolutionize the real estate industry—it will empower everyday investors to participate in opportunities that were once out of reach.
 
 The future of real estate is liquid, seamless, and at your fingertips. 
 

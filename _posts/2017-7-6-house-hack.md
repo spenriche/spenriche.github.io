@@ -97,7 +97,7 @@ STRs can enhance cash flow and offer flexibility. You can block days for persona
 
 **Creative Financing:** Strategies like seller financing or assumable mortgages can minimize or eliminate out-of-pocket expenses, increasing ROI and preserving funds for future investments.
 
-![Alt text](/assets/images//househack/hh.png)
+![Alt text](/assets/images//househack/hh.jpg)
 
 
 ## Our First House Hack: A Leap of Faith
