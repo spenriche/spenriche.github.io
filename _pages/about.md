@@ -42,10 +42,9 @@ R2 Capital Partners Inc. is a privately held real estate investment firm offerin
 - **Portfolio Oversight:** Manage a $65M portfolio across 13 cities, driving asset performance through proactive management and value-add strategies to maximize NOI and appreciation.
 - **Innovation & Technology:** Integrate technology and data analytics to streamline underwriting, asset management, and investor reporting, ensuring informed decision-making and operational transparency.
 
-#### **Key Achievements:**
+#### **Noteworthy Projects:**
 
-Oversaw the acquisition and management of notable real estate projects:
-- **Company Growth**  
+- **Company Growth**    
 Grew the company to over $65M in assets under management.
     - **168-176 Rothesay Ave, NB (Retail Power Center):**   
     155,000 sqft. Acquired for $12.5M; achieved forced appreciation of $7.1M. Sale lease-back from Loblaws.
@@ -69,7 +68,7 @@ Sure Home Stays is a tech-enabled international hospitality brand and property m
 - Oversee legal compliance, cross-border transactions, venture capital initiatives, and customer relationship management.
 - Leverage skills in international business strategy, team leadership, and hospitality operations.
 
-#### **Key Achievements:**
+#### **Key Milestones:**
 
 - Grew annual revenue from $0 to $3.7M USD within two years.
 - Expanded operations to 14 markets across North America.
