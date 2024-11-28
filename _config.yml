@@ -4,7 +4,7 @@ home_browser_title: "Spencer Riche | Blog"  # This will be used for the browser 
 email: 
 description: Pursuing health, wealth, happiness, and entrepreneurship through the lens of an contrarian opportunist. Explore strategies for growth and impact.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://spenriche.com"  # Your actual domain
+url: "https://spenriche.github.io"  # Your actual domain
 twitter_username: spenriche
 instagram_username: spenriche
 tiktok_username: spenriche
