@@ -22,11 +22,30 @@
         </svg>
       </a>
       <div class="trigger">
+        <a class="page-link" href="{{ site.baseurl }}/">Archive</a>
         {% for page in site.pages %}
-          {% if page.title and page.includelink %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
+          {% if page.title == "About" and page.includelink %}
+            <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          {% endif %}
+        {% endfor %}
+        <a class="page-link" href="#footer" onclick="scrollToBottom(event)">Subscribe</a>
+        {% for page in site.pages %}
+          {% if page.title and page.includelink and page.title != "About" %}
+            <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          {% endif %}
         {% endfor %}
       </div>
     </nav>
   </div>
 
 </header>
+
+<script>
+  function scrollToBottom(event) {
+    event.preventDefault();
+    window.scrollTo({
+      top: document.documentElement.scrollHeight,
+      behavior: 'smooth'
+    });
+  }
+</script>
