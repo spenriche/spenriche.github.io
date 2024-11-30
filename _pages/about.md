@@ -5,7 +5,19 @@ browser_title: Spencer Riche | About  # This will be used for the browser tab
 permalink: /about/
 includelink: true
 ---
-[Pursuing health, wealth, happiness, and entrepreneurship through the lens of an contrarian opportunist. Explore strategies for growth and impact.](#mission)
+
+What began on June 9th, 2016, as a personal accountability journal for my goal of achieving financial independence by 30 has since evolved into much more. Initially, this was meant to document my journey of frugal living, strategic investing, and personal growth. However, as I hit my target ahead of schedule, the blog transformed into a platform for sharing actionable strategies and insights with others pursuing similar goals.
+
+Over the years, this blog has grown into a blend of candid reflections on over a decade of investment experience—especially in real estate—and explorations of new curiosities. It’s a space where I share not only the financial aspects of my journey but also the personal growth, education, and life lessons that have come along the way.
+
+Whether you're here for the investment strategies, personal development insights, or simply to be inspired by the pursuit of financial freedom, I aim to provide valuable, educational, and entertaining content. Additionally, this blog serves to enhance my credibility across the industries I’m passionate about while continuing to offer meaningful, long-form content for readers like you.
+
+Thanks for joining me on this journey—I’m excited to share, grow, and learn together!
+
+## About me
+
+
+*[Pursuing health, wealth, happiness, and entrepreneurship through the lens of an contrarian opportunist. Explore strategies for growth and impact.](#mission)*
 
 I am an entrepreneur with over a decade of experience in the investment and construction industries, specializing in real estate investment and redevelopment. My focus is on acquiring and revitalizing underperforming grocery-anchored retail centers and office buildings in secondary and tertiary markets across North America, creating value and driving long-term growth.
 
