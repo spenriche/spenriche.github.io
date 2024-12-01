@@ -17,23 +17,31 @@ Thanks for joining me on this journey—I’m excited to share, grow, and learn 
 ## About me
 
 
-*[Pursuing health, wealth, happiness, and entrepreneurship through the lens of an contrarian opportunist. Explore strategies for growth and impact.](#mission)*
+*[Pursuing health, wealth, happiness, and entrepreneurship through the lens of an contrarian opportunist.](#mission)*
 
 I am an entrepreneur with over a decade of experience in the investment and construction industries, specializing in real estate investment and redevelopment. My focus is on acquiring and revitalizing underperforming grocery-anchored retail centers and office buildings in secondary and tertiary markets across North America, creating value and driving long-term growth.
 
 ![Alt text](/assets/images/29.jpeg){: .small-image}
 
-I began my professional journey in the trades, working as a pipe-fitter in the oil and gas industry. This hands-on experience instilled in me the values of discipline, resilience, and a steadfast focus on achieving financial independence. 
+**My Professional Journey**
 
-By practicing frugal living and making strategic investments, I transitioned from purchasing, renovating, and managing duplexes and small multi-family properties in Winnipeg to building a diversified portfolio of real estate assets. Over time, the success of these investments, combined with my disciplined savings, enabled me to leave the trades permanently and fully dedicate myself to growing my real estate investment business.
+I began my career in the trades, working as a pipe-fitter for a fire suppression company and later advanced into the oil and gas industry. This hands-on experience taught me discipline, resilience, and the importance of striving for financial independence. Through a commitment to frugal living and strategic investing, I transitioned from my trade work to purchasing, renovating, and managing duplexes and small multi-family properties in Winnipeg.
 
-As my track record grew, I began collaborating with investors to take on larger projects, leveraging my experience and success to scale operations. Today, as co-founder of R2 Capital Partners, I lead operations, managing over $65 million in assets across 13 cities in Canada and the United States, with a transaction history exceeding $75 million.
+Over time, these early investments, coupled with disciplined savings, allowed me to leave the trades permanently and focus on real estate full-time. I steadily expanded my portfolio, acquiring diversified real estate assets and honing my skills in property management and value creation.
 
-Beyond real estate, I co-founded Sure Home Stays, a tech-enabled international hospitality brand that embraces the sharing economy. Serving over 10,000 guests across 14+ markets in Canada and the United States, Sure Home Stays specializes in vacation rental management, offering luxurious stays while optimizing property performance.
+As my track record grew, I began partnering with investors to take on larger and more complex projects, leveraging my experience to scale operations. Today, as the co-founder of R2 Capital Partners, I lead operations across a portfolio of shopping centres, office buildings, multifamily apartments, and other assets, spanning 13 cities in Canada and the United States, with over $75 million in transactions.
 
-I am a lifelong learner with insatiable curiosity and an avid researcher, passionate about leveraging technology, machine learning, and robotics to create innovative solutions with real-world impact. My approach emphasizes building meaningful relationships, maintaining physical and mental well-being, and living a purpose-driven life.
+**Expanding Horizons**
 
-Outside of work, I enjoy spending time with my wife and our two dogs. I believe in the importance of building both a personal and professional life, striving to maintain this through mindfulness and continuous self-improvement.
+Beyond real estate, I co-founded Sure Home Stays, an international hospitality brand that integrates technology to optimize vacation rental performance. Operating across 14+ markets in Canada and the U.S., Sure Home Stays has welcomed 10,000+ guests, providing luxurious stays while helping property owners maximize returns.
+
+**Passion and Vision**
+
+I’m a lifelong learner with a passion for leveraging technology and machine learning to create innovative solutions that drive real-world impact. I believe in fostering meaningful relationships, prioritizing physical and mental well-being, and pursuing a purpose-driven life.
+
+**Life Beyond Work**
+
+Outside of my professional pursuits, I enjoy spending quality time with my wife and our two dogs. I value mindfulness and continuous self-improvement, striving to build a balanced, fulfilling personal and professional life.
 
 
 ---
