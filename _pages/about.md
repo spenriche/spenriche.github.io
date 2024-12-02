@@ -181,3 +181,7 @@ Together, a contrarian opportunist actively seeks undervalued opportunities or u
 This approach encourages questioning traditional norms, identifying hidden opportunities, and leveraging unorthodox strategies to achieve comprehensive personal and professional success. It's about not following the herd and instead creating a unique path toward growth and impact.
 
 ![Alt text](/assets/images/sg.png)
+
+
+
+
