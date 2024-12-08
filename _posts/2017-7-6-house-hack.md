@@ -158,7 +158,7 @@ Transitioning from a brand-new suburban home with granite countertops and luxury
 
 I had to convince my wife that this move was the right decision for us. She believed in me and our shared vision, but the reality of leaving our comfortable home was daunting. The night before moving in, we decided to drive through the neighborhood to get excited and plan what we'd do with the property. As we turned onto Langside Street, we saw people loitering, pushing shopping carts full of belongings, and others yelling and arguing.
 
-My wife looked at me and asked, "**Are we really going to do this?**" I reassured her, saying, "**We will look back on this without regret.**"
+My wife looked at me and asked, "**Are we really going to do this?**" I reassured her, saying, "**We won't regret this.**"
 
 And in hindsight, it turned out to be one of the best financial decisions we ever made. The move became the springboard for the rest of our lives.
 
