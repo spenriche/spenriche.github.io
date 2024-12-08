@@ -29,7 +29,7 @@ I began my career in the trades, working as a pipe-fitter for a fire suppression
 
 Over time, these early investments, coupled with disciplined savings, allowed me to leave the trades permanently and focus on real estate full-time. I steadily expanded my portfolio, acquiring diversified real estate assets and honing my skills in property management and value creation.
 
-As my track record grew, I began partnering with investors to take on larger and more complex projects, leveraging my experience to scale operations. Today, as the co-founder of R2 Capital Partners, I lead operations across a portfolio of shopping centres, office buildings, multifamily apartments, and other assets, spanning 13 cities in Canada and the United States, with over $75 million in transactions.
+As my track record grew, I began partnering with investors to take on larger and more complex projects, leveraging my experience to scale operations. Today, as the co-founder of R2 Capital Partners, I lead operations across a portfolio of shopping centres, office buildings, multifamily apartments, and other assets, spanning 13 cities in Canada and the United States.
 
 **Expanding Horizons**
 
@@ -65,7 +65,7 @@ R2 Capital Partners Inc. is a privately held real estate investment firm offerin
 #### **Noteworthy Projects:**
 
 - **Company Growth**    
-Grew the company to over $65M in assets under management.
+Grew the portfolio to over $70M in assets.
     - **168-176 Rothesay Ave, NB (Retail Power Center):**   
     155,000 sqft. Acquired for $12.5M; achieved forced appreciation of $7.1M. Sale lease-back from Loblaws.
     - **75 Prince William St, NB (Office Building):**  
