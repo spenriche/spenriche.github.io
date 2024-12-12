@@ -57,7 +57,7 @@ So, the next time you turn on a light, start your car, or take a bite of food yo
 
 History is not a distant story—it’s the foundation you stand on. And when you see life through this lens, gratitude becomes not just an emotion but a way of being.
 
-Today, you are alive. And that, my friend, is nothing short of a miracle.
+Today, you are blessed to be alive in this area. And that, is nothing short of a miracle.
 
 ---
 
