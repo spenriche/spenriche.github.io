@@ -123,7 +123,7 @@ It's estimated that between 150 million and 1 billion people have died as a resu
 * **World War II**:  
 Over 70 million deaths, the largest in human history, as people fought against fascism and for the survival of democracies. 
 
-* **Antiquity**: 
+* **Antiquity**:   
 Battles like those fought by the Roman Empire or during the Mongol conquests saw tens of millions of people perish, many of whom were civilians caught in the crossfire of history. 
 
 ### Deaths in the Name of Innovation and Exploration
