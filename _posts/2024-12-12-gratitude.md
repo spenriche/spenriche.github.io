@@ -14,7 +14,7 @@ date: 2024-12-12
 
 You awaken in a shadowy cave, the walls flickering with firelight. A small group of people huddles together, crafting spears from stone, their lives woven tightly to the rhythms of nature. The roar of predators echoes beyond the fire’s glow, the ever-present threat of survival bearing down like a heavy mantle. Days are spent hunting, foraging, and fighting against the elements with nothing more than grit and raw determination. Your stomach churns with hunger; you’ve eaten only scraps for days.
 
-This is humanity, 20,000 years ago—a world where survival was the pinnacle of achievement.
+This was humanity for **99% of its existence**, spanning tens of thousands of years—a world where mere survival was the ultimate achievement.
 
 ### The Medieval Era
 
@@ -28,11 +28,15 @@ And now, take one more step.
 
 You stand in the present. It’s your home, your world, a place brimming with light, possibility, and breathtaking marvels. But for a moment, pretend you’re seeing it all for the first time.
 
+![Alt text](/assets/images/gratitude/6.PNG)
+
 ### A Miracle Hidden in the Mundane
 
 Your hands reach for a faucet, and with a simple twist, clean water flows effortlessly. Not just water—hot water. Steam curls into the air, a luxury so ubiquitous you’ve stopped noticing it. In another time, people traveled miles to carry buckets from a river, their backs bent under the weight of survival. You, however, can wash your hands, fill your glass, or draw a bath without sparing a thought.
 
 Your refrigerator hums softly, preserving an abundance of food from every corner of the world. Lemons from Spain, coffee from Colombia, rice from India—it’s all there at your fingertips. Grocery stores, bursting with choice, are just minutes away. Thousands of years ago, entire communities would teeter on the brink of famine if crops failed or game was scarce. Now, abundance is so common it breeds waste.
+
+![Alt text](/assets/images/gratitude/1.gif)
 
 ### The Hidden Symphony of Everyday Life
 
@@ -57,7 +61,7 @@ So, the next time you turn on a light, start your car, or take a bite of food yo
 
 History is not a distant story—it’s the foundation you stand on. And when you see life through this lens, gratitude becomes not just an emotion but a way of being.
 
-Today, you are blessed to be alive in this area. And that, is nothing short of a miracle.
+Today, you are blessed to be alive in this era. And that, is nothing short of a miracle.
 
 ---
 
@@ -172,4 +176,4 @@ The best way to honor those sacrifices is to live with gratitude and appreciatio
 
 So, before you lament what you don’t have, take a moment to reflect on what you do. Recognize the billions who came before you and ask yourself, **What will I do with the life their sacrifices and suffering have afforded me?**
 
-![Alt text](/assets/images/gratitude/6.PNG)
+![Alt text](/assets/images/gratitude/7.PNG)
