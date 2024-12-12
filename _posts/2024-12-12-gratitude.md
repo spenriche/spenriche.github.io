@@ -77,7 +77,7 @@ Today, you are blessed to be alive in this area. And that, is nothing short of a
 
 ### Poverty and Starvation
 * In the pre-modern era, up to **90% of people** lived in extreme poverty, barely subsisting on what they could grow or barter.
-* Even in 1800, **85% of the global population** lived on the equivalent of less than $2 per day. Today, that number has dropped below 9%.
+* Even in 1800, **85% of the global population** lived on the equivalent of less than $2 per day. Today, that number has **dropped below 9%**.
 
 ### Hunger and Famine
 * Famines were a regular feature of life for most of history. Between the years 1000 and 1800, Europe alone experienced at least one major famine every decade.
