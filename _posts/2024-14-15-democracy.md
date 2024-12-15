@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The Illusion of Democracy: Why It Can’t Last"
-date: 2024-12-14
+title: "The Illusion of Democracy"
+date: 2024-12-15
 ---
 
 ![Alt text](/assets/images/dem/1.PNG)
