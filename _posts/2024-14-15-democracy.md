@@ -81,7 +81,7 @@ Canada’s carbon tax is set to increase to CAD $170 per ton by 2030, but rebate
     <p><em></em></p>
     <iframe 
         src="https://www.debtclock.ca/" 
-        width="650" 
+        width="100%" 
         height="600" 
         style="border: none; overflow: hidden;" 
         scrolling="no">
