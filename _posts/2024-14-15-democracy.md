@@ -52,16 +52,9 @@ The American Society of Civil Engineers graded U.S. infrastructure at a C- in 20
 **Tax Cuts Without Spending Cuts:**
 The 2017 Tax Cuts and Jobs Act added $1.9 trillion to the national debt over 10 years, while federal spending grew by over 7% annually during the same period, further increasing the deficit.
 
-<div style="width: 100%; text-align: center;">
-    <iframe 
-        src="https://www.usdebtclock.org/" 
-        width="800" 
-        height="500" 
-        style="border: none; overflow: hidden;" 
-        scrolling="no">
-    </iframe>
-</div>
+[![Alt text](/assets/images/dem/12.PNG)](https://www.usdebtclock.org/)
 
+[US Debt Clock](https://www.usdebtclock.org/)
 
 ### Canada
 
@@ -77,17 +70,9 @@ The average wait time for specialist care in Canada was 27.4 weeks in 2022, up f
 **Carbon Pricing and Rebates:**
 Canada’s carbon tax is set to increase to CAD $170 per ton by 2030, but rebates reduce the actual price signal, with 80% of households receiving nearly as much as they pay, undermining its incentive to cut emissions.
 
-<div style="text-align: center;">
-    <p><em></em></p>
-    <iframe 
-        src="https://www.debtclock.ca/" 
-        width="100%" 
-        height="600" 
-        style="border: none; overflow: hidden;" 
-        scrolling="no">
-    </iframe>
-</div>
+[![Alt text](/assets/images/dem/11.PNG)](https://www.debtclock.ca/)
 
+[Canada Debt Clock](https://www.debtclock.ca/)
 
 ### Broader Implications
 
