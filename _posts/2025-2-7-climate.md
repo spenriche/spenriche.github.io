@@ -75,6 +75,8 @@ Yet, historical records show that the Earth's climate has changed drastically fo
 
 Are we to believe that all climate changes throughout history were natural, but this one is purely man-made? That is an absurd and arrogant assumption.
 
+![Alt text](/assets/images/climate2.jpeg)
+
 ## The Cult of Net Zero: A Delusional, Unachievable, Anti-Human Fantasy
 
 The mind-numbing stupidity of the Net Zero agenda cannot be overstated. It is physically, scientifically, and economically impossible to achieve, yet the media, politicians, and corporate elites shove it down your throat as if it’s the only moral path forward. Newsflash: There is no such thing as "Net Zero" unless you eliminate all human activity entirely. Every single living creature emits carbon—you exhale CO₂ just by existing. Agriculture, transportation, industry—everything that sustains civilization produces emissions. 
@@ -97,6 +99,9 @@ But here’s the truth:
 - If the elites truly cared about the environment, they would stop flying private jets and living in palatial estates while demanding working-class people suffer under carbon taxes.
 - If politicians truly believed that we were facing an existential crisis, they would lead by example—not by punishing citizens while they themselves live in excess.
 
+The elites don’t want that, because a strong and independent population cannot be controlled. Their climate agenda is a fraud, a scam, and a power grab designed to impoverish you while they live as kings. The only way to truly solve environmental challenges is to reject their manufactured crises, reject their carbon taxes, and fight for a Canada where economic prosperity and environmental responsibility go hand in hand—without authoritarian control.
+
+
 ## Conclusion: The Path Forward is Prosperity, Not Poverty
 
 The way to a greener, cleaner Canada is not through economic destruction, carbon taxes, or authoritarian policies that crush the working class. The best environmental policies are those that make a country richer, because wealthier nations can afford innovation, efficiency, and sustainability.
@@ -107,7 +112,7 @@ Instead of punishing citizens, we should focus on solutions that drive progress 
 
 **1. Cost-Effective Policies Over Extreme Measures**
 
-- Sweeping climate policies, like high carbon taxes or outright fossil fuel bans, can sometimes do more economic harm than environmental good. The key is efficiency—ensuring that policies provide more benefit than their cost, so resources aren’t wasted on ineffective solutions.
+- Sweeping climate policies, like high carbon taxes or outright fossil fuel bans, will do more economic harm than environmental good. The key is efficiency—ensuring that policies provide more benefit than their cost, so resources aren’t wasted on ineffective solutions.
 
 **2. Economic Growth Leads to Cleaner Environments**
 
@@ -115,10 +120,10 @@ Instead of punishing citizens, we should focus on solutions that drive progress 
 
 **3. Innovation Over Regulation**
 
-- Rather than relying on strict carbon taxes or heavy mandates, investing in research and development for green technology—such as advanced solar, wind, battery storage, nuclear energy, and carbon capture—can drive real change. The goal is to make clean energy so affordable and efficient that it outcompetes fossil fuels on its own, without excessive government intervention.
+- Rather than relying on strict carbon taxes or heavy mandates, investing in research and development for green technology—such as advanced nuclear energy, solar, battery storage, and carbon capture—can drive real change. The goal is to make clean energy so affordable and efficient that it outcompetes fossil fuels on its own, without excessive government intervention.
 
-The elites don’t want that, because a strong and independent population cannot be controlled. Their climate agenda is a fraud, a scam, and a power grab designed to impoverish you while they live as kings. The only way to truly solve environmental challenges is to reject their manufactured crises, reject their carbon taxes, and fight for a Canada where economic prosperity and environmental responsibility go hand in hand—without authoritarian control.
 
+By focusing on innovation, economic expansion, and practical solutions, Canada can achieve real environmental progress without punishing its people.
 
 ---
 
@@ -201,3 +206,17 @@ Sea levels are rising (roughly 3 mm per year globally, give or take), but not at
 
 Long-term data often show that while there may be trends toward more intense or frequent heatwaves, other types of events (e.g., some kinds of storms, droughts) don’t necessarily align perfectly with predictions of ever-increasing frequency. Moreover, improved technology and awareness mean we’re better at detecting and reporting events that previously went unrecorded.
 
+---
+
+As the late, great **George Carlin** once said, *“The planet is fine. The people are fucked.”* So if all else fails, at least we can watch his video, have a good laugh at our own expense, and then pretend our paper straws will magically fix everything.
+
+<div class="video-container">
+  <iframe 
+    width="100%" 
+    height="315" 
+    src="https://www.youtube.com/embed/7W33HRc1A6c" 
+    style="max-width: 100%; margin: 0 auto;"
+    frameborder="0" 
+    allowfullscreen>
+  </iframe>
+</div>
