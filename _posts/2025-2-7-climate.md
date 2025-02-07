@@ -14,8 +14,8 @@ For years, the climate crisis has been framed as an urgent moral imperative, an 
 
 The biggest climate polluters in Canada aren’t working-class truckers or suburban commuters—they’re the politicians and billionaire class who jet around the world lecturing the rest of us. Consider this:
 
- - Justin Trudeau’s flights alone have emitted over 2,800 metric tons of CO₂ since taking office—more than 200 times the emissions of the average Canadian in a year. He preaches about reducing our carbon footprint while his government-owned private aircraft shuttles him from climate summits to vacation getaways.
-- In just six months, Trudeau’s private and government flights logged over 127,000 kilometers, often for trivial domestic trips where alternative transport was available.
+- Justin Trudeau's flights alone have emitted over [2,800 metric tons of CO₂ since taking office](https://nationalpost.com/news/politics/trudeau-government-carbon-emissions)—more than 200 times the emissions of the average Canadian in a year. He preaches about reducing our carbon footprint while his government-owned private aircraft shuttles him from climate summits to vacation getaways.
+- In just six months, Trudeau's private and government flights logged over [127,000 kilometers](https://torontosun.com/news/national/trudeaus-flights-during-six-month-period-produced-120-tonnes-of-greenhouse-gases), often for trivial domestic trips where alternative transport was available.
 - The Davos and COP Climate Summits—where elites gather to scold ordinary people for driving gas-powered cars—see hundreds of private jets land each year, emitting more carbon in a week than some small countries do annually.
 - The royal family, Hollywood celebrities, and billionaire philanthropists who demand “climate justice” routinely burn thousands of liters of jet fuel per trip. Leonardo DiCaprio, John Kerry, and other self-appointed climate warriors fly private to climate events while demanding the average Canadian give up their gas-powered vehicle.
 
@@ -37,7 +37,7 @@ But what does our government do? Instead of focusing on making life affordable a
 
 Carbon taxes disproportionately hurt the working class, raising heating bills, fuel prices, and food costs while the wealthy barely notice.
 
-- Trudeau's carbon tax has increased the cost of living while doing virtually nothing to reduce global emissions, since countries like China and India continue expanding coal use.
+- Trudeau's carbon tax has increased the cost of living while doing virtually nothing to reduce global emissions, since [countries like China and India continue expanding coal use](https://www.reuters.com/business/energy/china-india-push-coal-output-higher-climate-concerns-2023-12-21/).
 - Instead of encouraging innovation, the government forces compliance through punitive taxes and arbitrary regulations.
 
 **The Electric Vehicle (EV) Delusion:**
@@ -53,9 +53,9 @@ Carbon taxes disproportionately hurt the working class, raising heating bills, f
 
 ## Carbon Tax Scam
 
-The carbon tax in Canada is nothing more than a glorified scam, designed to punish working-class Canadians while lining government coffers under the false pretense of fighting climate change. The government rakes in billions from carbon pricing—$31 billion in 2021 alone—while emissions barely budge, proving that this is just another tax grab, not a serious environmental solution. They claim to "return" 90% of the money through rebates, but this only redistributes wealth inefficiently, making life more expensive while doing nothing to stop global polluters like China and India. 
+The carbon tax in Canada is nothing more than a glorified scam, designed to punish working-class Canadians while lining government coffers under the false pretense of fighting climate change. The government rakes in billions from carbon pricing—[$31 billion in 2021 alone](https://www.canada.ca/en/environment-climate-change/services/climate-change/pricing-pollution-how-it-will-work/carbon-pollution-pricing-federal-benchmark-information/federal-benchmark-2023-2030.html)—while emissions barely budge, proving that this is just another tax grab, not a serious environmental solution. They claim to "return" 90% of the money through rebates, but this only redistributes wealth inefficiently, making life more expensive while doing nothing to stop global polluters like China and India. 
 
-Meanwhile, businesses suffer, inflation rises, and Canada hemorrhages jobs—with projections estimating that the carbon tax could permanently wipe out 185,000 jobs by 2030. If the government actually cared about the climate, they would invest in nuclear energy, innovation, and technological advancements—not slap an arbitrary tax on every facet of life, forcing people to pay more to exist while Trudeau and his elitist friends fly private jets guilt-free. This is not a climate policy; it’s a regressive wealth transfer scheme that cripples the economy, exploits taxpayers, and does absolutely nothing to solve the global climate crisis.
+Meanwhile, businesses suffer, inflation rises, and Canada hemorrhages jobs—with projections estimating that the carbon tax could permanently [wipe out 185,000 jobs by 2030](https://www.fraserinstitute.org/studies/estimated-impacts-of-a-170-carbon-tax-in-canada). If the government actually cared about the climate, they would invest in nuclear energy, innovation, and technological advancements—not slap an arbitrary tax on every facet of life, forcing people to pay more to exist while Trudeau and his elitist friends fly private jets guilt-free. This is not a climate policy; it's a regressive wealth transfer scheme that cripples the economy, exploits taxpayers, and does absolutely nothing to solve the global climate crisis.
 
 ## The Manufactured "Climate Crisis" and the Ever-Changing Narrative
 
@@ -70,8 +70,8 @@ These people change the narrative whenever reality fails to meet their doomsday 
 Yet, historical records show that the Earth's climate has changed drastically for millions of years—long before industrialization, long before SUVs, long before carbon taxes.
 
 - The Younger Dryas Period (12,900 years ago) was significantly warmer than today—was that because of cavemen driving Ford F-150s?
-- The Medieval Warm Period (900-1300 AD) saw temperatures higher than today, long before fossil fuels.
-- The Sun is expanding, and one day, regardless of human intervention, it will boil Earth’s oceans.
+- The [Medieval Warm Period (900-1300 AD)](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/medieval-warm-period) saw temperatures higher than today, long before fossil fuels.
+- The Sun is expanding, and one day, regardless of human intervention, it will boil Earth's oceans.
 
 Are we to believe that all climate changes throughout history were natural, but this one is purely man-made? That is an absurd and arrogant assumption.
 
