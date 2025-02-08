@@ -6,6 +6,8 @@ date: 2025-2-8
 
 ![Alt text](/assets/images/canada/main.PNG)
 
+[📄 Download as PDF](/assets/images/canada/download2.pdf)
+
 ### Preface
 
 The catalyst that led me to write this was the recent Canada-U.S. trade tensions, particularly the reaction to a potential 25% tariff from U.S. President Donald Trump. But the real issue isn’t the tariff itself—it’s how many Canadians are reacting, pointing fingers at Trump as if he alone is responsible for our economic struggles while ignoring the deeper, long-standing issues that put us in this vulnerable position.
@@ -60,7 +62,7 @@ Federal spending soared from [$256B (2014)](https://www.budget.gc.ca/2014/docs/p
 #### **Declining Health**
 Life expectancy [dropped for three straight years](https://www150.statcan.gc.ca/n1/daily-quotidien/230926/dq230926a-eng.htm) for the first time ever (82.3 years to 81.3 years). 
 
-#### **Mental health crisis**
+#### **Mental Health Crisis**
 [29% of Canadians](https://www.camh.ca/en/driving-change/the-crisis-is-real/mental-health-statistics) now report a mental health condition, up from **20% in 2016.**
 
 #### **Rising Crime**
@@ -75,7 +77,7 @@ Life expectancy [dropped for three straight years](https://www150.statcan.gc.ca/
 #### **Housing Insecurity**
 [A 2024 survey](https://www.cmhc-schl.gc.ca/en/professionals/housing-markets-data-and-research/housing-research/surveys) revealed that [58% of Canadians](https://www.bankofcanada.ca/2024/01/financial-system-review-2024/) are anxious about their ability to maintain mortgage or rent payments, with 43% experiencing increased financial stress due to housing costs.
 
-#### **Housing Cost**
+#### **Housing**
 Between 2015 and 2024, the average price of a home in Canada increased from approximately [$413,563 to $705,600](https://www.crea.ca/housing-market-stats/national-price-map/), marking a [71% rise](https://www.cmhc-schl.gc.ca/en/professionals/housing-markets-data-and-research/housing-data/data-tables) over the decade.
 
 In Vancouver, bureaucracy and regulations add [$644,000](https://www.vancouverobserver.com/2024/03/20/vancouver-housing-costs-explained/) (50% of total cost) to a new home, while taxes and fees make up 31% of the price—making housing drastically more expensive.
@@ -86,7 +88,7 @@ Approximately 1 out of 4, ([25% of Canadians](https://www150.statcan.gc.ca/n1/pu
 #### **Suicide Rate**
 Suicide deaths in Canada [increased by 8.6%](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310039201) since Liberal leadership, reaching [4,850 cases in just 2022](https://www.suicideinfo.ca/resource/suicide-stats-canada-provinces/)—the highest on record—with men accounting for nearly 75% of all suicides.
 
-#### **Opioid-related deaths**
+#### **Opioid-related Deaths**
 [Opioid deaths in Canada skyrocketed by 187.5%](https://health-infobase.canada.ca/substance-related-harms/opioids-stimulants/) since 2016, with over [49,105 fatalities](https://www.canada.ca/en/public-health/services/publications/healthy-living/national-report-apparent-opioid-related-deaths-released-march-2023.html) under Trudeau's leadership—[79% of 2024 deaths](https://www.canada.ca/en/health-canada/services/opioids/data-surveillance-research.html) linked to fentanyl.
 
 #### **Health Care**
