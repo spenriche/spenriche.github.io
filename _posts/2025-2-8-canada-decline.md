@@ -420,7 +420,7 @@ Fast forward—[the CIA just admitted COVID was created in a lab](https://www.ws
 
 Wake up, people. They [lied about the origins](https://www.science.org/content/article/covid-19-origins-still-uncertain-key-studies-awaiting-release), they [lied about the vaccines](https://www.bmj.com/content/379/bmj.o2960), and they lied about the entire pandemic response. How much more proof do you need?
 
-*I'll stop here, because this subject is its own rabbit whole for an entire other paper…!*
+*I'll stop here, because this subject is its own rabbit hole for an entire other paper…!*
 
 ## Entrepreneurship is Dying, and With It, Our Future
 
