@@ -54,7 +54,7 @@ Canada is not just broken—it is in freefall. Unless citizens wake up, demand c
 > I am not here to tell you what to believe—I am simply laying out the reality as I see it. The choice to engage, to question, and to think for yourself is yours.
 
 ---
-### Key Stats on Canada's Decline
+### Key Stats on Canada's Decline 📉
 
 #### **Economic Collapse**
 Federal spending soared from [$256B (2014)](https://www.budget.gc.ca/2014/docs/plan/ch4-2-eng.html) to [$450B (2023)](https://www.canada.ca/en/department-finance/services/publications/annual-financial-report/2023.html); national debt hit [$1.9T](https://www.debtclock.ca/). GDP per capita grew just [1.9% (2015-2022)](https://www.statcan.gc.ca/en/subjects-start/economic_accounts)—worst since the Great Depression. Business investment fell by [$3,676 per worker](https://www.fraserinstitute.org/studies/weak-business-investment-in-canada), while real wages have stagnated since 2016.
@@ -164,7 +164,7 @@ Canada isn't just stagnating—it's actively regressing.
 
 ![Alt text](/assets/images/canada/gdp.jpeg)
 
-## The Canadian Dollar: A Symbol of Decline
+## The Canadian Dollar: A Symbol of Decline 
 
 Nothing reflects Canada's waning economic clout more than the collapsing value of its currency. Once flirting with parity with the U.S. dollar in the early 2010s, the loonie has plunged to 69 cents USD—its lowest levels in decades (St. Albert News). In January 2025, it even dipped below 69¢ intraday, signaling a profound lack of global confidence in Canada's economy.
 
@@ -186,7 +186,7 @@ Canadians have suffered through the worst inflation crisis in four decades—a d
 
 Though inflation has since declined, the damage is permanent. Higher baseline prices mean Canadians are stuck paying more for necessities indefinitely, while interest rates remain elevated—crippling homeowners and small businesses alike.
 
-## Housing: The Death of the Canadian Dream
+## Housing: The Death of the Canadian Dream 🏡
 
 The Canadian housing crisis is a national disaster—one engineered by government policy failures.
 
@@ -238,7 +238,7 @@ Delayed Marriage, Fewer Kids – First-time motherhood now averages 31 years old
 
 - Taxpayers Will Be Crushed – In 1970, 7 workers supported each retiree. Today, it's 3.4:1—by 2050, it will be 2:1, meaning higher taxes and gutted pensions.
 
-### **Let's pause for a quick moment, let me put this stat into prospective for you**
+### **⏸️ Let's pause for a quick moment, let me put this stat into prospective for you**
 
 If Canada's pension system were to maintain the same worker-to-retiree ratio as today (3.4:1) while adjusting for the projected 2:1 ratio by 2050, the expected retirement age would need to rise to **110 years old—a completely unfeasible scenario. This highlights the impossibility of sustaining pensions without massive tax hikes, benefit cuts, or a dramatic reversal in birth rates.**
 
@@ -333,7 +333,7 @@ Canada's military isn't just underfunded—it's in crisis.
 - We don't have nuclear deterrence, while potential adversaries stockpile warheads.
 - Our tank fleet? [Fewer than 10 operational](https://www.canada.ca/en/department-national-defence/services/procurement/leopard-2-tank-fleet.html). In a real conflict, we'd be steamrolled.
 
-### We Talk Tough, But We Cower Under the U.S. Shield
+### We Talk Tough, But We Cower Under the U.S. Shield 🛡️
 
 Canadians love to badmouth Americans, claiming moral superiority while hiding behind their military protection. The harsh truth? Without the U.S.:
 
@@ -420,6 +420,12 @@ Fast forward—[the CIA just admitted COVID was created in a lab](https://www.ws
 
 Wake up, people. They [lied about the origins](https://www.science.org/content/article/covid-19-origins-still-uncertain-key-studies-awaiting-release), they [lied about the vaccines](https://www.bmj.com/content/379/bmj.o2960), and they lied about the entire pandemic response. How much more proof do you need?
 
+[Justin Trudeau himself once said](https://rumble.com/vma7wr-trudeu-little-dirty-secrets-about-politics.html), “Do you want to know the dirty little secret about politics in the 21st century? Negative campaigning, attack ads, nastiness, and division work. If all you want to do is get elected, they will help you get elected. Attacking, dividing, sowing fear—picking and choosing wedge issues to drive through a community—all of it helps you win.”
+
+While many see Trudeau and his handlers as incompetent, this isn’t a bug in their strategy—it’s the feature. The setup is deliberate: divide the people, shift the blame away from themselves, and create an “us vs. them” narrative. Instead of being viewed as the perpetrator, they position themselves as the savior. Promising free money to everyone, call a snap election, and securing their continued reign of power, they are already discussing another ["pandemic type responses to the tariffs"](https://www.forexlive.com/news/canada-planning-covid-style-stimulus-if-us-enacts-tariffs-in-bid-to-avoid-early-election-20250128/), which again, is conveniently timed to the election. Brilliant.
+
+
+
 *I'll stop here, because this subject is its own rabbit hole for an entire other paper…!*
 
 ## Entrepreneurship is Dying, and With It, Our Future
@@ -451,10 +457,12 @@ Imagine you're a doctor—you've spent years in school, racked up hundreds of th
 Nothing has poisoned the national psyche more than the belief that the government will always save you.
 
 - [20 million Canadians](https://www.canada.ca/en/revenue-agency/services/benefits/emergency-student-benefit/cerb-statistics.html)—more than half the adult population—took COVID handouts.
-- At one point, [over 50% of adults](https://www.fraserinstitute.org/sites/default/files/government-support-and-dependence-during-pandemic.pdf) relied on government income.
+- [Over 50% of adults](https://www.fraserinstitute.org/sites/default/files/government-support-and-dependence-during-pandemic.pdf) rely on some form of government income.
 - Today, cries for [universal basic income](https://www.ubiworks.ca/post/majority-of-canadians-support-basic-income), permanent subsidies, and endless social programs grow louder—even as debt skyrockets and the country teeters on the edge of collapse.
 
 This entitlement mindset has rotted our work ethic. Why struggle, why innovate, why fight for success, when the government will hand you just enough to survive?
+
+Again, [this is by design](https://en.wikipedia.org/wiki/Cloward%E2%80%93Piven_strategy). The more dependent the population, the easier it is to control.
 
 ### A Weak, Submissive Nation Cannot Lead
 
@@ -615,7 +623,9 @@ We are not powerless. We are not doomed. But we are out of time to stay silent. 
 This country was built by fighters, pioneers, warriors, and innovators—not by obedient, passive followers. We can reclaim that spirit. We can fix this.
 
 
-## The question is: Will you fight for Canada, or will you sit back and watch it fall?
+### The question is: 
+
+### Will you fight for Canada, or will you sit back and watch it fall?
 
 ![Alt text](/assets/images/canada/end.PNG)
 
