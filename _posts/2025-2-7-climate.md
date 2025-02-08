@@ -10,7 +10,7 @@ The ruling class in Canada—led by so-called “progressive” politicians like
 
 For years, the climate crisis has been framed as an urgent moral imperative, an existential threat so severe that it justifies stripping you of personal freedoms, taxing every aspect of your life, and reshaping the economy to align with an elite-approved “green” vision. But while the government forces you to pay carbon taxes on gas, groceries, and home heating, while they tell you to trade in your reliable second-hand vehicle for an unaffordable, government-mandated electric car, while they demand that you retrofit your home with solar panels and triple-pane windows you can't afford, they themselves continue to live like kings, spewing carbon into the atmosphere at levels you could never dream of.
 
-## The Private Jet Hypocrisy of Canada’s Climate Elite
+## The Hypocrisy of The Climate Elite
 
 The biggest climate polluters in Canada aren’t working-class truckers or suburban commuters—they’re the politicians and billionaire class who jet around the world lecturing the rest of us. Consider this:
 
