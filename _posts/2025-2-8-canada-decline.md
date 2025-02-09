@@ -399,37 +399,6 @@ A nation that fears speaking the truth is a nation already conquered. And make n
 
 Canadians no longer challenge authority—we comply. We kneel. We beg for permission. We have lost the backbone that made us great.
 
-### Mass Formation: The COVID Compliance Experiment
-
-Canada became a global embarrassment during COVID. It wasn't just the [lockdowns](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/measures-reduce-community.html), [curfews](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/measures-in-force/curfew), and [vaccine mandates](https://www.canada.ca/en/treasury-board-secretariat/news/2021/10/vaccination-requirement-for-federal-workforce-including-rcmp.html)—it was the zombie-like compliance of the public.
-
-- [Grocery stores taped off "non-essential" goods](https://www.cbc.ca/news/canada/manitoba/manitoba-new-covid-19-restrictions-1.5797953). People lined up like cattle and obeyed.
-- [Police arrested pastors](https://www.cbc.ca/news/canada/calgary/alberta-pastor-arrest-bail-hearing-1.5947440) for holding church services. The public cheered.
-- Canadians [ratted out their neighbors](https://www.theglobeandmail.com/canada/article-snitch-lines-social-media-shaming-help-maintain-covid-19-social/) for having family gatherings. We turned on each other like trained informants.
-
-The [trucker convoy](https://www.cbc.ca/news/politics/emergencies-act-inquiry-report-1.6780051) exposed the truth: Anyone who dared resist was crushed. The government didn't engage in dialogue—it [froze bank accounts](https://financialpost.com/news/fp-street/banks-started-freezing-accounts-after-emergencies-act-invoked), [seized donations](https://www.ctvnews.ca/politics/millions-in-convoy-funds-remain-frozen-until-resolution-of-court-case-mayor-1.5885440), and declared peaceful protesters a national threat.
-
-Canada proved that authoritarianism doesn't need to be forced—it can be welcomed. Just pump enough fear into the public, and they'll beg for their own oppression.
-
-Remember, this was all under the guise of "protecting our health," the government [banned teachers from buying glue sticks](https://www.cbc.ca/news/canada/manitoba/manitoba-new-covid-19-restrictions-1.5797953) and loose-leaf for classrooms—yet kept [liquor stores open](https://www.cbc.ca/news/canada/toronto/ontario-lcbo-beer-wine-liquor-sales-covid-19-1.5734937), cigarettes on the shelves, and even [legalized the purchase of Schedule I narcotics](https://www.canada.ca/en/health-canada/services/substance-use/supervised-consumption-sites/status-application.html). Yeah, they really care about our well-being, right? Meanwhile, they flood every street corner with ultra-processed, chemical-laden junk food while telling us to ["stay inside for our safety."](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/about-non-medical-masks-face-coverings.html) Wake up—does this sound like a government that actually gives a damn about your health?
-
-They swore the vaccines were [100% effective](https://www.reuters.com/article/factcheck-fauci-efficacy-idUSL1N2PB2WH)—take the shot, and you won't get COVID or spread it. That was the promise. The reality? A complete sham. The vaccine [never stopped transmission](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/effectiveness/why-measure-effectiveness.html), and it never prevented infection. At best, it may have slightly reduced symptoms, but the grand narrative was a lie from the start.
-
-And let's talk about the "lab leak theory." If you dared suggest COVID was man-made, you were [branded a conspiracy theorist](https://www.npr.org/2021/05/27/1000780650/the-debate-over-origins-of-covid-19-continues), silenced, and mocked. The official story? Some guy ate a bat, and the whole world shut down. Insane.
-
-Fast forward—[the CIA just admitted COVID was created in a lab](https://www.wsj.com/politics/national-security/covid-origin-china-lab-leak-cia-40d218d9). So the so-called "conspiracy theorists" were right all along, and the people who blindly trusted the government got played.
-
-The irony is undeniable—we pretend COVID is a thing of the past, yet it never went away. It’s still here. The fact that life snapped back to normal so fast only proves how overhyped and catastrophically mismanaged the entire situation was.
-
-Wake up, people. They [lied about the origins](https://www.science.org/content/article/covid-19-origins-still-uncertain-key-studies-awaiting-release), they [lied about the vaccines](https://www.bmj.com/content/379/bmj.o2960), and they lied about the entire pandemic response. How much more proof do you need?
-
-[Justin Trudeau himself once said](https://rumble.com/vma7wr-trudeu-little-dirty-secrets-about-politics.html), “Do you want to know the dirty little secret about politics in the 21st century? Negative campaigning, attack ads, nastiness, and division work. If all you want to do is get elected, they will help you get elected. Attacking, dividing, sowing fear—picking and choosing wedge issues to drive through a community—all of it helps you win.”
-
-While many see Trudeau and his handlers as incompetent, this isn’t a bug in their strategy—it’s the feature. The setup is deliberate: divide the people, shift the blame away from themselves, and create an “us vs. them” narrative. Instead of being viewed as the perpetrator, they position themselves as the savior. Promising free money to everyone, call a snap election, and securing their continued reign of power, they are already discussing another ["pandemic type responses to the tariffs"](https://www.forexlive.com/news/canada-planning-covid-style-stimulus-if-us-enacts-tariffs-in-bid-to-avoid-early-election-20250128/), which again, is conveniently timed to the election. Brilliant.
-
-
-*I'll stop here, because this subject is its own rabbit hole for an entire other paper…!*
-
 ## Entrepreneurship is Dying, and With It, Our Future
 
 Canada used to be a country of dreamers and builders—now, we fear risk, resent success, and worship safety.
@@ -531,6 +500,36 @@ Canada is fracturing. The federal government is failing to represent the diverse
 Trudeau vowed in 2015 that it would be "the last election under FPTP." That was a lie. The moment he realized the broken system benefited him, he scrapped electoral reform.
 
 This is not a democracy—it's a party cartel, where power is hoarded in Ottawa and entire regions of the country are permanently locked out.
+
+### Mass Formation: The COVID Compliance Experiment
+
+Canada became a global embarrassment during COVID. It wasn't just the [lockdowns](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/measures-reduce-community.html), [curfews](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/measures-in-force/curfew), and [vaccine mandates](https://www.canada.ca/en/treasury-board-secretariat/news/2021/10/vaccination-requirement-for-federal-workforce-including-rcmp.html)—it was the zombie-like compliance of the public.
+
+- [Grocery stores taped off "non-essential" goods](https://www.cbc.ca/news/canada/manitoba/manitoba-new-covid-19-restrictions-1.5797953). People lined up like cattle and obeyed.
+- [Police arrested pastors](https://www.cbc.ca/news/canada/calgary/alberta-pastor-arrest-bail-hearing-1.5947440) for holding church services. The public cheered.
+- Canadians [ratted out their neighbors](https://www.theglobeandmail.com/canada/article-snitch-lines-social-media-shaming-help-maintain-covid-19-social/) for having family gatherings. We turned on each other like trained informants.
+
+The [trucker convoy](https://www.cbc.ca/news/politics/emergencies-act-inquiry-report-1.6780051) exposed the truth: Anyone who dared resist was crushed. The government didn't engage in dialogue—it [froze bank accounts](https://financialpost.com/news/fp-street/banks-started-freezing-accounts-after-emergencies-act-invoked), [seized donations](https://www.ctvnews.ca/politics/millions-in-convoy-funds-remain-frozen-until-resolution-of-court-case-mayor-1.5885440), and declared peaceful protesters a national threat.
+
+Canada proved that authoritarianism doesn't need to be forced—it can be welcomed. Just pump enough fear into the public, and they'll beg for their own oppression.
+
+Remember, this was all under the guise of "protecting our health," the government [banned teachers from buying glue sticks](https://www.cbc.ca/news/canada/manitoba/manitoba-new-covid-19-restrictions-1.5797953) and loose-leaf for classrooms—yet kept [liquor stores open](https://www.cbc.ca/news/canada/toronto/ontario-lcbo-beer-wine-liquor-sales-covid-19-1.5734937), cigarettes on the shelves, and even [legalized the purchase of Schedule I narcotics](https://www.canada.ca/en/health-canada/services/substance-use/supervised-consumption-sites/status-application.html). Yeah, they really care about our well-being, right? Meanwhile, they flood every street corner with ultra-processed, chemical-laden junk food while telling us to ["stay inside for our safety."](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/about-non-medical-masks-face-coverings.html) Wake up—does this sound like a government that actually gives a damn about your health?
+
+They swore the vaccines were [100% effective](https://www.reuters.com/article/factcheck-fauci-efficacy-idUSL1N2PB2WH)—take the shot, and you won't get COVID or spread it. That was the promise. The reality? A complete sham. The vaccine [never stopped transmission](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/effectiveness/why-measure-effectiveness.html), and it never prevented infection. At best, it may have slightly reduced symptoms, but the grand narrative was a lie from the start.
+
+And let's talk about the "lab leak theory." If you dared suggest COVID was man-made, you were [branded a conspiracy theorist](https://www.npr.org/2021/05/27/1000780650/the-debate-over-origins-of-covid-19-continues), silenced, and mocked. The official story? Some guy ate a bat, and the whole world shut down. Insane.
+
+Fast forward—[the CIA just admitted COVID was created in a lab](https://www.wsj.com/politics/national-security/covid-origin-china-lab-leak-cia-40d218d9). So the so-called "conspiracy theorists" were right all along, and the people who blindly trusted the government got played.
+
+The irony is undeniable—we pretend COVID is a thing of the past, yet it never went away. It’s still here. The fact that life snapped back to normal so fast only proves how overhyped and catastrophically mismanaged the entire situation was.
+
+Wake up, people. They [lied about the origins](https://www.science.org/content/article/covid-19-origins-still-uncertain-key-studies-awaiting-release), they [lied about the vaccines](https://www.bmj.com/content/379/bmj.o2960), and they lied about the entire pandemic response. How much more proof do you need?
+
+[Justin Trudeau himself once said](https://rumble.com/vma7wr-trudeu-little-dirty-secrets-about-politics.html), “Do you want to know the dirty little secret about politics in the 21st century? Negative campaigning, attack ads, nastiness, and division work. If all you want to do is get elected, they will help you get elected. Attacking, dividing, sowing fear—picking and choosing wedge issues to drive through a community—all of it helps you win.”
+
+While many see Trudeau and his handlers as incompetent, this isn’t a bug in their strategy—it’s the feature. The setup is deliberate: divide the people, shift the blame away from themselves, and create an “us vs. them” narrative. Instead of being viewed as the perpetrator, they position themselves as the savior. Promising free money to everyone, call a snap election, and securing their continued reign of power, they are already discussing another ["pandemic type responses to the tariffs"](https://www.forexlive.com/news/canada-planning-covid-style-stimulus-if-us-enacts-tariffs-in-bid-to-avoid-early-election-20250128/), which again, is conveniently timed to the election. Brilliant.
+
+*I'll stop here, because this subject is its own rabbit hole for an entire other paper…!*
 
 ### Western Alienation is Reaching a Breaking Point
 
