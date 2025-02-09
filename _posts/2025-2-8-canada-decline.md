@@ -12,11 +12,11 @@ date: 2025-2-8
 
 The catalyst that led me to write this was the recent Canada-U.S. trade tensions, particularly the reaction to a potential 25% tariff from U.S. President Donald Trump. But the real issue isn’t the tariff itself—it’s how many Canadians are reacting, pointing fingers at Trump as if he alone is responsible for our economic struggles while ignoring the deeper, long-standing issues that put us in this vulnerable position.
 
-The reality is, our challenges are not caused by any single foreign leader—they stem from within. Over the years, Canada has faced economic mismanagement, policies that have driven away investment, and an overreliance on government intervention. Trump didn’t block our pipelines. Trump didn’t cause half a trillion dollars in capital to leave Canada. Trump didn’t stall our GDP per capita for a decade. These are the consequences of our own decisions—from energy policies to taxation and economic priorities that have left us less competitive on the global stage.
+The reality is, our challenges are not caused by any single foreign leader—they stem from within. Over the years, Canada has faced economic mismanagement, policies that have driven away investment, and an overreliance on government intervention. Trump didn’t block our pipelines. Trump didn’t cause half a trillion dollars in capital to leave Canada. Trump didn’t stall our GDP per capita for a decade. These are the consequences of our own decisions—from energy policies to taxation and economic priorities and continuous altruistic virtue-signaling delusions that have left us less competitive on the global stage.
 
 At the same time, we’ve quietly accepted policies that increase our cost of living, such as a rising carbon tax and massive government borrowing, yet we react strongly to a trade negotiation tactic. Where is that same level of concern for the challenges we create for ourselves? We should be just as engaged in ensuring Canada remains strong, independent, and economically resilient as we are in reacting to external pressures.
 
-And now, suddenly, we’re supposed to rally around a renewed sense of Canadian pride? Where was this national unity when it actually mattered? Just weeks ago, it was socially acceptable to [burn the Canadian flag in the streets in support of foreign wars.](https://www.youtube.com/watch?v=-MKplgqcaNY) But when Canadians previously stood up for their own sovereignty, freedoms, and rights, they were labeled misogynists, racists, and extremists. They were ostracized from their families, de-banked, outcasted from society, and treated like second-class citizens simply for defending individual liberties and national identity. Now, those same people are expected to stand shoulder-to-shoulder in unity with the very institutions that vilified them? The hypocrisy is staggering.
+And now, suddenly, we’re supposed to rally around a renewed sense of Canadian pride? Where was this national unity when it actually mattered? Just weeks ago, it was socially acceptable to [burn the Canadian flag in the streets in support of foreign wars.](https://www.youtube.com/watch?v=-MKplgqcaNY) But when Canadians previously stood up for their own sovereignty, freedoms, and rights, they were labeled misogynists, racists, and extremists.  They were ostracized from their families, de-banked, outcasted from society, and treated like second-class citizens simply for defending individual liberties and national identity as enshrined in our Charter of Freedoms and Constitution. Now, those same people are expected to stand shoulder-to-shoulder in unity with the very institutions that vilified them? The hypocrisy is staggering.
 
 This article isn’t about assigning blame—it’s about recognizing that if we want Canada to be strong, we must take responsibility for our own policies and direction. Challenges will always come from the outside, but our ability to handle them is determined by the strength we build from within. We need to focus on long-term solutions that encourage economic growth, national resilience, and self-sufficiency, rather than searching for external culprits.
 
@@ -25,7 +25,7 @@ Canada’s future is in our hands. If we want real change, it starts with accoun
 
 ## Introduction
 
-Once a global symbol of stability, prosperity, and personal freedom, Canada is now a cautionary tale of reckless leadership, unchecked government overreach, and societal decay. Since Justin Trudeau's Liberals took power in 2015, the country has spiraled into an economic and political quagmire, with its decline accelerating year after year. What was once a proud and resilient nation has become a fragile shell of its former self—drowning in debt, crippled by complacency, and increasingly unrecognizable to those who once believed in its promise.
+Once a global symbol of stability, prosperity, and personal freedom, Canada is now a cautionary tale of reckless leadership, unchecked government overreach, and societal decay. Since Justin Trudeau's Liberals took power in 2015, the country has spiraled into an economic and political fiasco, with its decline accelerating year after year. What was once a proud and resilient nation has become a fragile shell of its former self—drowning in debt, crippled by complacency, and increasingly unrecognizable to those who once believed in its promise.
 The evidence is staggering: the economy is stagnant, with per-capita GDP growth at record lows while federal spending has skyrocketed by 75% in just eight years. Nearly a trillion dollars in new debt has shackled future generations, inflation reached a 40-year high, and the government's fiscal mismanagement has driven Canada into economic quicksand. Trudeau's regime—riddled with scandals, corruption, and ethical violations—has repeatedly evaded accountability, even shutting down Parliament when scrutiny became too intense.
 
 But the problem runs deeper than economics. Freedoms have eroded at an alarming rate. The Trudeau government set a dangerous precedent in 2022 by invoking the Emergencies Act to crush peaceful protests, freezing citizens' bank accounts like an authoritarian dictatorship. Speech laws continue tightening, with proposed legislation aiming to police "online harms" under Orwellian pretenses, and mainstream media—propped up by government bailouts—parrots the official narrative without question. Public apathy and mass complacency have only emboldened the overreach, creating a passive, government-dependent populace that accepts decline rather than fights against it.
@@ -83,7 +83,7 @@ Between 2015 and 2024, the average price of a home in Canada increased from appr
 In Vancouver, bureaucracy and regulations add [$644,000](https://www.vancouverobserver.com/2024/03/20/vancouver-housing-costs-explained/) (50% of total cost) to a new home, while taxes and fees make up 31% of the price—making housing drastically more expensive.
 
 #### **Rising Poverty**
-Approximately 1 out of 4, ([25% of Canadians](https://www150.statcan.gc.ca/n1/pub/75-006-x/2021001/article/00002-eng.htm)) live below the poverty line, a figure much higher than previous estimates. 
+Approximately 1 out of 4, ([25% of Canadians](https://www150.statcan.gc.ca/n1/pub/75-006-x/2021001/article/00002-eng.htm)) live below the poverty line, a figure much higher than previous estimates of 8%. 
 
 #### **Suicide Rate**
 Suicide deaths in Canada [increased by 8.6%](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310039201) since Liberal leadership, reaching [4,850 cases in just 2022](https://www.suicideinfo.ca/resource/suicide-stats-canada-provinces/)—the highest on record—with men accounting for nearly 75% of all suicides.
@@ -386,7 +386,7 @@ History is clear—weak nations get conquered. Canada is weak. What happens next
 
 Canada wasn't built by weak, spineless rule-followers—it was built by pioneers, warriors, and risk-takers who fought for their freedoms and thrived on self-reliance. Yet today, that spirit is all but dead.
 
-We are no longer a country of bold innovators, tough workers, or fearless thinkers. We have become a nation of obedient sheep, waiting for government handouts, terrified of speaking freely, and utterly reliant on a system that does not serve us.
+We are no longer a country of bold innovators, tough workers, or fearless thinkers. We have become a nation of obedient sycophants, waiting for government handouts, terrified of speaking freely, and utterly reliant on a system that does not serve us.
 
 ### Self-Censorship: Canadians Have Been Broken
 
@@ -418,12 +418,13 @@ And let's talk about the "lab leak theory." If you dared suggest COVID was man-m
 
 Fast forward—[the CIA just admitted COVID was created in a lab](https://www.wsj.com/politics/national-security/covid-origin-china-lab-leak-cia-40d218d9). So the so-called "conspiracy theorists" were right all along, and the people who blindly trusted the government got played.
 
+The irony is undeniable—we pretend COVID is a thing of the past, yet it never went away. It’s still here. The fact that life snapped back to normal so fast only proves how overhyped and catastrophically mismanaged the entire situation was.
+
 Wake up, people. They [lied about the origins](https://www.science.org/content/article/covid-19-origins-still-uncertain-key-studies-awaiting-release), they [lied about the vaccines](https://www.bmj.com/content/379/bmj.o2960), and they lied about the entire pandemic response. How much more proof do you need?
 
 [Justin Trudeau himself once said](https://rumble.com/vma7wr-trudeu-little-dirty-secrets-about-politics.html), “Do you want to know the dirty little secret about politics in the 21st century? Negative campaigning, attack ads, nastiness, and division work. If all you want to do is get elected, they will help you get elected. Attacking, dividing, sowing fear—picking and choosing wedge issues to drive through a community—all of it helps you win.”
 
 While many see Trudeau and his handlers as incompetent, this isn’t a bug in their strategy—it’s the feature. The setup is deliberate: divide the people, shift the blame away from themselves, and create an “us vs. them” narrative. Instead of being viewed as the perpetrator, they position themselves as the savior. Promising free money to everyone, call a snap election, and securing their continued reign of power, they are already discussing another ["pandemic type responses to the tariffs"](https://www.forexlive.com/news/canada-planning-covid-style-stimulus-if-us-enacts-tariffs-in-bid-to-avoid-early-election-20250128/), which again, is conveniently timed to the election. Brilliant.
-
 
 
 *I'll stop here, because this subject is its own rabbit hole for an entire other paper…!*
