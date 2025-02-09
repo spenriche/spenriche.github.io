@@ -203,6 +203,7 @@ And it's not just homeowners who are suffering.
 - Homelessness is surging, with shelters overflowing and encampments growing in major cities. We now have 235,000 people living on the streets, out of an estimated 2,000,000 unhoused, which was only 93,529 in 2021.
 
 - Poverty Rates: 1 out of 4 (25%) Canadians are now below the poverty line. Up from 8% in 2014 when liberals assumed office.
+
 - Food Bank Usage:  Record High Visits: March 2024 saw over 2 million food bank visits, marking a 6% increase from 2023 and a staggering 90% surge since 2019.
 
 - Young Canadians, once hopeful for a middle-class future, are increasingly giving up on ever owning a home. Homeownership rates are plummeting among those under 35, creating a permanent class divide between those who bought early and those now permanently locked out.
