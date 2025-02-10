@@ -487,6 +487,70 @@ Canada's immigration policy has become a reckless, unsustainable disaster that i
 
 Canada should welcome immigrants—but responsibly, not recklessly. Right now, our government is choosing chaos over competence. The longer we let this spiral, the harder it will be to fix.
 
+## Cultural Assassination: The Death of Canadian Identity
+
+Once a nation of unparalleled economic strength, national unity, and cultural pride, Canada now stands at a crossroads. What was once a country built on perseverance, shared values, and the pursuit of greatness is being systematically dismantled. We are not merely witnessing a cultural shift—we are experiencing a full-scale cultural assassination. This is not progress; this is national erosion, an intentional dismantling of our identity under the deceptive banners of unchecked multiculturalism, historical revisionism, and radical policies that undermine our sovereignty.
+
+### The Systematic Erasure of Canadian Heritage
+
+Canada’s foundational symbols—once revered and honored—are now under relentless attack. Statues of the very leaders who built this country, such as Sir John A. Macdonald, have been defaced and torn down with impunity. City councils debate renaming schools and streets, stripping away the memory of those who shaped our nation. Canada Day, once a proud celebration of our unity, is now vilified as a reminder of supposed historical sins, with major cities canceling or downplaying festivities. Meanwhile, institutions push for the [phasing out of Christmas](https://thepostmillennial.com/canadian-school-cancels-christmas-to-hold-spring-concert-instead?#google_vignette), a holiday that has been a pillar of Canadian culture for generations, in favor of generic “winter celebrations.”
+
+History is not meant to be rewritten but understood. A nation that refuses to acknowledge both its triumphs and its flaws is doomed to repeat its mistakes. Instead of learning from our past and using it to strengthen our national character, we are erasing the experiences that shaped us. Canada's history is complex, filled with both achievements and failures, yet it is these very struggles that have defined our collective identity. The relentless effort to judge historical figures by modern standards fails to recognize that history is a continuum of progress, and the lessons we derive from it are invaluable.
+
+Consider the numbers: in 2021, a survey by Leger found that 51% of Canadians felt that their national identity was eroding. Additionally, 67% of respondents expressed concern over Canada’s increasing political correctness at the expense of tradition. These are not fringe fears; they are the sentiments of a growing silent majority tired of being told that their history, pride, and values are shameful relics.
+
+### The War on Patriotism: A Nation Taught to Hate Itself
+
+Instead of fostering unity, our educational institutions and media propagate a self-loathing narrative, one that paints Canada solely as a colonial oppressor rather than a nation of opportunity, resilience, and innovation. Children are no longer taught to appreciate the sacrifices made to build this country; instead, they are conditioned to view Canada as an irredeemable villain. The Canadian flag, once waved with pride, is now replaced with pride flags, while the National flag is now spit on and [burned in protests without consequence.](https://www.youtube.com/watch?v=-MKplgqcaNY)
+
+Patriotism—the backbone of any strong nation—has been rebranded as dangerous nationalism. The idea that one can love their country while acknowledging its imperfections is dismissed. This binary view of history denies the fact that Canadian values, such as democracy, freedom of speech, and human rights, were forged through difficult struggles and hard-won victories. Those who fought for the country, whether in war or through civic leadership, are increasingly being vilified rather than honored.
+
+What has been the result? A 2022 study from the Angus Reid Institute found that only 26% of young Canadians (aged 18-34) feel a deep sense of pride in their national identity. Compare this to older generations, where over 70% once held an unwavering belief in Canada’s greatness. The deliberate erosion of national pride is not an accident—it is an agenda-driven movement designed to weaken our social fabric.
+
+### Unchecked Immigration: The Death of National Cohesion
+
+Canada’s immigration system was once the envy of the world, built on the principle that newcomers would integrate, respect Canadian laws, and contribute meaningfully to society. But today, we are seeing the opposite: an unregulated influx of individuals who neither assimilate nor show allegiance to the country that welcomed them. Loose policies have opened the floodgates to exploiters rather than contributors.
+
+Reports have surfaced of over 50,000 newcomers pretending to be students, paying for Canadian student visas without ever attending a class, all with the intent of exploiting loopholes to enter Canada without meeting proper requirements. Many of these individuals operate in underground economies, contributing neither to education nor society. Crime rates among non-citizens are rising, yet deportation remains an anomaly “radical” rather than a standard response. 
+
+In 2023 alone, 38% of violent crime cases in major cities like Toronto involved foreign nationals or non-permanent residents. Meanwhile, a staggering 60% of immigrants admitted in the past five years have yet to secure full-time employment, relying instead on taxpayer-funded social programs.
+
+### A Broken Justice System: Protecting Criminals Over Citizens
+
+Law-abiding Canadians are being forced to live in increasingly unsafe communities. Our justice system, weakened by political correctness, prioritizes slaps on wrists over consequences, leading to repeat offenders walking free. Violent criminals are granted bail within hours, and deportation of those who abuse the system and are not even Canadian residents, is non-existent.
+
+**Few examples:**
+
+- Several weeks ago in Manitoba, Canada, a semi-truck driver was involved in a fatal collision that resulted in the deaths of a mother and her eight-year-old daughter. Following the accident, the driver was taken to the hospital for treatment and subsequently released. Authorities later issued a Canada-wide arrest warrant for the driver, but he could not be located [because he fled to his home country.](https://www.ctvnews.ca/winnipeg/article/manitoba-rcmp-issue-canada-wide-warrant-for-ontario-semi-driver-charged-in-deadly-crash/)
+- Carjackings have surged to unprecedented levels, with thousands of stolen vehicles being shipped overseas annually. Organized crime groups exploit weak border security and lenient prosecution policies, making Canada a prime target for international car theft rings.
+- Ontario Provincial Police, and other Greater Toronto Area police services announced the results of an extensive auto theft investigation. The operation led to 124 arrests, [749 criminal charges](https://www.youtube.com/watch?v=UqNzoyv4Lgc), and the recovery of over 170 stolen vehicles valued at more than $10 million. The investigation targeted criminal networks involved in violent auto thefts, home invasions, and other non-violent vehicle theft incidents. 
+- In [October 2024](https://apnews.com/article/canada-drug-bust-lab-c0faf8130a9859db772b8c5fe88cc745), Canadian authorities dismantled the country's largest and most sophisticated illicit drug "super lab" in Falkland, British Columbia, linked to transnational organized crime. The operation led to the seizure of 54 kilograms of fentanyl, 390 kilograms of methamphetamine, significant amounts of precursor chemicals, and smaller quantities of cocaine, MDMA, and cannabis. Additionally, 89 firearms, including handguns, AR-15-style rifles, and submachine guns, as well as explosives, ammunition, silencers, high-capacity magazines, body armor, and approximately $500,000 in cash were confiscated. Gaganpreet Randhawa was arrested and faces multiple drug and firearms-related charges.
+- In [2023 Pearson Airport gold heist](https://toronto.citynews.ca/2024/05/09/suspect-gold-heist-arrested-pearson/), in which criminals successfully stole over $20 million in gold and other valuables. Despite the magnitude of the theft, the perpetrators faced minimal consequences, highlighting the incompetence of our law enforcement in dealing with high-profile crimes.
+
+The reality is clear: Canada’s justice system is a revolving door for criminals. The “catch and release” approach allows offenders to be arrested, processed, and released on bail within hours—often leading to reoffending before ever facing trial. Repeat offenders know that they face little to no real punishment, emboldening them to commit further crimes.
+
+I encourage you to conduct a quick online search for “recent Canadian drug bust” and see for yourself how many of these cases involve individuals who are not Canadian residents—people who contribute nothing in taxes yet profit from and fuel the destruction of our communities. Our nation is being exploited, and lives are being lost due to weak border security and a legal system that fails to protect its own citizens.
+
+From a criminal's perspective, **Canada is a goldmine.** You reap all the benefits—tax-free cash earnings from illegal activities, unrestricted entry into the country, and a justice system that practically invites exploitation. If you get caught, you’re released on bail, and before facing any real consequences, you can simply book a flight home. No penalties, no deterrents—just endless opportunity.
+
+And as word spreads, why wouldn’t criminals from around the world flock to Canada? We’re a wealthy nation with a lax approach to crime, skyrocketing addiction rates, and a legal system that prioritizes political correctness over justice. For criminals, it’s an obvious choice.
+
+### The Intentionally Misguided Crackdown on Law-Abiding Gun Owners
+
+Instead of addressing the real issues fueling crime and admitting their failures, the government has shifted its focus to law-abiding gun owners, particularly in rural communities. In December 2024, the federal government added 324 firearms to its ban, a move widely criticized by firearm businesses as an attack on responsible citizens rather than criminals.
+
+This crackdown ignores a critical fact: legally registered firearms are almost never used in violent crimes. According to Statistics Canada, among homicides where data was available, only 12% involving rifles or shotguns were committed by individuals with valid firearm licenses. The vast majority of firearm-related crimes involve illegally obtained weapons. Yet, instead of tackling illegal gun smuggling and organized crime, the government continues to burden lawful gun owners while ignoring the root cause of gun violence.
+
+This raises a critical question: why does the government insist on disarming law-abiding citizens while criminals continue to operate with impunity? An unarmed population is easier to control, and history has repeatedly shown that governments seeking more authority often first target civilian firearms. 
+
+The Second Amendment in the United States exists precisely to protect the First Amendment; preventing this kind of overreach—ensuring that the people retain the power to defend themselves not just from crime, but from tyranny itself. The idea that banning guns will keep firearms out of the hands of criminals is pure fantasy. 
+
+If criminals can and will obtain firearms illegally, then why should responsible citizens be denied the right to protect themselves? Just as people keep fire extinguishers in their homes before the fire department arrives, responsible gun ownership is about preparation and security—especially for those in rural areas where law enforcement response times can be dangerously slow considering [Police response rates in the cities are now surpassing 45-minutes.](https://winnipeg.citynews.ca/2024/03/20/winnipeg-dissatisfied-police-force-survey/)
+
+### The Urgency of Action
+
+The Canada we once knew—strong, proud, and free—is rapidly fading. If we do not take decisive action now, we risk losing our national identity forever. It is time to restore pride, demand accountability, and ensure that the future of Canada remains one of strength, unity, and unwavering cultural identity. A nation that abandons its history, disrespects its traditions, and refuses to instill pride in its citizens is on the path to self-destruction. We must reclaim our heritage, not erase it. Only through acknowledging both the good and the bad can we move forward as a stronger and more united Canada.
+
 ## Canada's Democratic Dysfunction: A Nation Run by Ottawa, for Ottawa
 
 Canada is fracturing. The federal government is failing to represent the diverse realities of the country, and instead of fixing the system, Ottawa continues to tighten its grip. Electoral reform was promised, then abandoned, regional frustrations are boiling over, and national unity is hanging by a thread. The one-size-fits-all model isn't working, and unless power is shifted back to the provinces, Canada will continue its slow descent into political disarray and regional rebellion.
@@ -500,6 +564,37 @@ Canada is fracturing. The federal government is failing to represent the diverse
 Trudeau vowed in 2015 that it would be "the last election under FPTP." That was a lie. The moment he realized the broken system benefited him, he scrapped electoral reform.
 
 This is not a democracy—it's a party cartel, where power is hoarded in Ottawa and entire regions of the country are permanently locked out.
+
+## The Great Canadian Sellout: Why Are We Funding Foreign Governments While Our Own People Suffer?
+
+> "Foreign aid is taking money from poor people in rich countries and giving it to rich people in poor countries." – Ron Paul
+
+Canada once stood as a beacon of prosperity, unity, and national pride. But fast forward to 2024, and we’re a nation on life support—economically drained, culturally eroded, and systematically dismantled by reckless policies that put everyone else before our own people.
+
+The cherry on top? Billions of our hard-earned tax dollars are being funneled to foreign nations while our veterans sleep on the streets, our hospitals overflow, and our youth struggle to afford homes.
+
+### Where's Our Money Going?
+
+Last week, we learned that $100 billion in U.S. aid to Ukraine that President Zelensky [just admitted went missing?](https://www.politifact.com/factchecks/2025/feb/05/facebook-posts/zelenskyys-statement-about-ukraine-aid-didnt-revea/?utm_source=chatgpt.com) Yes, you read that right—ONE HUNDRED BILLION DOLLARS of taxpayer money, vanishing into the abyss of corruption, with Ukrainian officials were conveniently reported buying new yachts and luxury properties.
+And Canada? We’re not far behind in the ‘financial masochism’ department. Over $20 billion of our tax dollars were thrown into foreign aid in 2023 alone, with millions allocated to gender ideology programs in developing nations. Because, apparently, our government thinks funding woke indoctrination overseas is more important than feeding our own starving citizens.
+
+Even better, just days ago, the Canadian government [wiped all public records of its spending](https://www.youtube.com/watch?v=PeD1vjgjEyc). What an incredible coincidence—right after USAID got exposed for billions in taxpayer fraud! But don’t worry, folks, we’re sure there’s absolutely nothing shady going on behind closed doors.
+
+### Selling Out Our Own People
+
+While our government hemorrhages cash abroad, let’s take a look at the state of our own backyard:
+
+- **Homelessness and Poverty:** Tens of thousands of Canadians live in tents under bridges, including veterans who risked their lives for our freedom. Meanwhile, our government is wiring money overseas to build vacation homes for the elite in other countries before fixing our own housing crisis.
+- **Healthcare Crisis:** Emergency rooms are so overwhelmed that people are dying in waiting rooms. But don’t worry, we’ve got enough money to bankroll gender studies programs in foreign countries!
+- **Soaring Crime Rates:** Criminals walk free under “rehabilitation-focused” policies while law-abiding Canadians suffer. Why? Because we need to be ‘compassionate.’
+
+But hey, at least the Canadian flag is being replaced with foreign ones in our institutions, so we can feel really good about our inclusivity while our national identity gets flushed down the toilet.
+
+### Why Are We Funding the World When Our Own People Are Starving?
+
+Not a single taxpayer dollar should leave our borders until every single Canadian has a home, food, education, and proper medical and mental health care.
+Veterans, single mothers, the working class, indigenous communities—these should be our priorities. Instead, we send billions to corrupt foreign leaders who laugh at our generosity while we scrape by.
+It’s time to stop financing foreign corruption and start investing in our own people. Canada first. Always.
 
 ### Mass Formation: The COVID Compliance Experiment
 
