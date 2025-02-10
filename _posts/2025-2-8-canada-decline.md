@@ -8,6 +8,9 @@ date: 2025-2-8
 
 [📄 Download as PDF](/assets/images/canada/download2.pdf)
 
+*Words: 10,911*
+
+
 ### Preface
 
 The catalyst that led me to write this was the recent Canada-U.S. trade tensions, particularly the reaction to a potential 25% tariff from U.S. President Donald Trump. But the real issue isn’t the tariff itself—it’s how many Canadians are reacting, pointing fingers at Trump as if he alone is responsible for our economic struggles while ignoring the deeper, long-standing issues that put us in this vulnerable position.
