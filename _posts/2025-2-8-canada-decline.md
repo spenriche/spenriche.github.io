@@ -109,6 +109,9 @@ Under Harper, [98% of Canadian parents were satisfied with child care](https://w
 #### **Leadership Approval Rate**
 As of late 2023, [58% of Canadians](https://angusreid.org/trudeau-approval-september-2023/) were dissatisfied with the country's direction, while Trudeau's approval rating plummeted to just [33% by September 2024](https://nanos.co/dataportal/canadian-politics/political-package/page-1/).
 
+#### **Cultural Decline**
+26% of young Canadians (18-34) feel deep national pride, compared to over 70% of older generations.
+
 ---
 
 ## Economic Collapse: Debt, Stagnation, and the Vanishing Canadian Dream
@@ -376,7 +379,7 @@ Meanwhile, our enemies are watching.
 
 We aren't just weak—we are broadcasting our weakness to the world.
 
-### What Needs to Happen—NOW
+### What Needs to Happen
 
 - Massively increase defense spending to at least 2% of GDP.
 - Expand and modernize our military, from fighter jets to ground forces.
@@ -420,7 +423,7 @@ And just as this exodus ramps up, the Canadian government conveniently stopped t
 
 Canada is facing a brain drain crisis as its most productive, skilled, and wealthy individuals flee the country. When entrepreneurs, investors, high-income earners, and job creators leave, they take their capital, businesses, and expertise with them—gutting the economy from the top down. Fewer innovators mean fewer jobs, less investment, and a shrinking tax base, forcing the remaining population to shoulder higher taxes and a declining standard of living. Without its best and brightest, Canada risks becoming a nation of bureaucrats and dependents, watching as its economic engine grinds to a halt.
 
-Imagine you're a doctor—you've spent years in school, racked up hundreds of thousands in student debt, and finally started earning a real paycheck at 38 years old. Now, you have two choices: stay in Canada, where over **51% of your paycheck vanishes in taxes**, forcing you to work half the year for free while being worked to the bone in a collapsing healthcare system, or head to the U.S., where you keep hundreds of thousands more of your money, enjoy a 50% lower cost of living, and never have to endure sub-zero winters again.
+Imagine you're a specialized doctor—you've spent years in school, racked up hundreds of thousands in student debt, and finally started earning a real paycheck at 38 years old. Now, you have two choices: stay in Canada, where over **51% of your paycheck vanishes in taxes**, forcing you to work half the year for free while being worked to the bone in a collapsing healthcare system, or head to the U.S., where you keep hundreds of thousands more of your money, enjoy a 50% lower cost of living, and never have to endure sub-zero winters again.
 
 **What exactly is Canada offering to keep its top talent? The answer is simple: nothing.** We are not competitive, and until that changes, the exodus will only continue.
 
@@ -490,9 +493,9 @@ Canada's immigration policy has become a reckless, unsustainable disaster that i
 
 Canada should welcome immigrants—but responsibly, not recklessly. Right now, our government is choosing chaos over competence. The longer we let this spiral, the harder it will be to fix.
 
-## Cultural Assassination: The Death of Canadian Identity
+## Cultural Decline: The Death of Canadian Identity
 
-Once a nation of unparalleled economic strength, national unity, and cultural pride, Canada now stands at a crossroads. What was once a country built on perseverance, shared values, and the pursuit of greatness is being systematically dismantled. We are not merely witnessing a cultural shift—we are experiencing a full-scale cultural assassination. This is not progress; this is national erosion, an intentional dismantling of our identity under the deceptive banners of unchecked multiculturalism, historical revisionism, and radical policies that undermine our sovereignty.
+Canada, once a nation of economic strength, unity, and cultural pride, now stands at a crossroads. The shared values and perseverance that shaped its identity are steadily eroding. This is more than just cultural change—it is a fundamental transformation that challenges the nation’s cohesion. As policies shift and historical narratives evolve, the balance between progress and preserving Canada’s identity has never been more crucial.
 
 ### The Systematic Erasure of Canadian Heritage
 
@@ -504,7 +507,7 @@ Consider the numbers: in 2021, a survey by Leger found that 51% of Canadians fel
 
 ### The War on Patriotism: A Nation Taught to Hate Itself
 
-Instead of fostering unity, our educational institutions and media propagate a self-loathing narrative, one that paints Canada solely as a colonial oppressor rather than a nation of opportunity, resilience, and innovation. Children are no longer taught to appreciate the sacrifices made to build this country; instead, they are conditioned to view Canada as an irredeemable villain. The Canadian flag, once waved with pride, is now replaced with pride flags, while the National flag is now spit on and [burned in protests without consequence.](https://www.youtube.com/watch?v=-MKplgqcaNY)
+Instead of fostering unity, our educational institutions and media propagate a self-loathing narrative, one that paints Canada solely as a colonial oppressor rather than a nation of opportunity, resilience, and innovation. Children are no longer taught to appreciate the sacrifices made to build this country; instead, they are conditioned to view Canada as an irredeemable villain. The Canadian flag, once waved with pride, is now replaced with pride flags, while the National flag is spat on and [burned in protests without consequence.](https://www.youtube.com/watch?v=-MKplgqcaNY)
 
 Patriotism—the backbone of any strong nation—has been rebranded as dangerous nationalism. The idea that one can love their country while acknowledging its imperfections is dismissed. This binary view of history denies the fact that Canadian values, such as democracy, freedom of speech, and human rights, were forged through difficult struggles and hard-won victories. Those who fought for the country, whether in war or through civic leadership, are increasingly being vilified rather than honored.
 
@@ -512,11 +515,9 @@ What has been the result? A 2022 study from the Angus Reid Institute found that 
 
 ### Unchecked Immigration: The Death of National Cohesion
 
-Canada’s immigration system was once the envy of the world, built on the principle that newcomers would integrate, respect Canadian laws, and contribute meaningfully to society. But today, we are seeing the opposite: an unregulated influx of individuals who neither assimilate nor show allegiance to the country that welcomed them. Loose policies have opened the floodgates to exploiters rather than contributors.
+Canada’s immigration system was once the envy of the world, built on the principle that newcomers would embrace our culture, respect Canadian laws, and contribute meaningfully to society. But today, we are seeing the opposite: an unregulated influx of individuals who refuse to show allegiance to the country that welcomed them. Loose policies have opened the floodgates to exploiters rather than contributors.
 
 Reports have surfaced of over 50,000 newcomers pretending to be students, paying for Canadian student visas without ever attending a class, all with the intent of exploiting loopholes to enter Canada without meeting proper requirements. Many of these individuals operate in underground economies, contributing neither to education nor society. Crime rates among non-citizens are rising, yet deportation remains an anomaly “radical” rather than a standard response. 
-
-In 2023 alone, 38% of violent crime cases in major cities like Toronto involved foreign nationals or non-permanent residents. Meanwhile, a staggering 60% of immigrants admitted in the past five years have yet to secure full-time employment, relying instead on taxpayer-funded social programs.
 
 ### A Broken Justice System: Protecting Criminals Over Citizens
 
@@ -533,8 +534,6 @@ Law-abiding Canadians are being forced to live in increasingly unsafe communitie
 The reality is clear: Canada’s justice system is a revolving door for criminals. The “catch and release” approach allows offenders to be arrested, processed, and released on bail within hours—often leading to reoffending before ever facing trial. Repeat offenders know that they face little to no real punishment, emboldening them to commit further crimes.
 
 I encourage you to conduct a quick online search for “recent Canadian drug bust” and see for yourself how many of these cases involve individuals who are not Canadian residents—people who contribute nothing in taxes yet profit from and fuel the destruction of our communities. Our nation is being exploited, and lives are being lost due to weak border security and a legal system that fails to protect its own citizens.
-
-From a criminal's perspective, **Canada is a goldmine.** You reap all the benefits—tax-free cash earnings from illegal activities, unrestricted entry into the country, and a justice system that practically invites exploitation. If you get caught, you’re released on bail, and before facing any real consequences, you can simply book a flight home. No penalties, no deterrents—just endless opportunity.
 
 And as word spreads, why wouldn’t criminals from around the world flock to Canada? We’re a wealthy nation with a lax approach to crime, skyrocketing addiction rates, and a legal system that prioritizes political correctness over justice. For criminals, it’s an obvious choice.
 
@@ -596,7 +595,7 @@ But hey, at least the Canadian flag is being replaced with foreign ones in our i
 ### Why Are We Funding the World When Our Own People Are Starving?
 
 Not a single taxpayer dollar should leave our borders until every single Canadian has a home, food, education, and proper medical and mental health care.
-Veterans, single mothers, the working class, indigenous communities—these should be our priorities. Instead, we send billions to corrupt foreign leaders who laugh at our generosity while we scrape by.
+Veterans, single mothers, the working class—these should be our priorities. Instead, we send billions to corrupt foreign leaders who laugh at our generosity while we scrape by.
 It’s time to stop financing foreign corruption and start investing in our own people. Canada first. Always.
 
 ### Mass Formation: The COVID Compliance Experiment
