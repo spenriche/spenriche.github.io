@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "The Climate Change Hypocrisy: Elitist Lies, Economic Suicide, and the War on the Working Class"
+title: "The Climate Change Hypocrisy"
 date: 2025-2-7
 ---
 
 ![Alt text](/assets/images/climate.PNG)
+
+## Elitist Lies, Economic Suicide, and the War on the Working Class
 
 The ruling class in Canada—led by so-called “progressive” politicians like Justin Trudeau—preaches endlessly about climate change, demanding sacrifice from the middle and working class while living in grotesque hypocrisy. They lecture ordinary people about reducing their carbon footprint while jet-setting around the world in private planes, vacationing in yachts, dining in luxury, and living in mansions that burn more energy in a week than most families use in a year. Their climate alarmism isn’t about saving the planet—it’s about controlling you, impoverishing you, and ensuring you stay in your place while they continue their privileged lifestyles untouched.
 
