@@ -99,9 +99,11 @@ Under Trudeau, healthcare spending hit a record [$372 billion](https://www.cihi.
 
 In the fiscal year 2022–2023, a record 17,032 Canadians died while awaiting medical procedures, marking a five-year high. Between 2018 and 2024, [over 74,000 Canadians died on waiting lists for various health services](https://www.youtube.com/watch?v=to3-_GqCCPk). *Atleast it's free! Right?*
 
-
 #### **Homelessness**
 Homelessness in Canada has surged under Trudeau, with [emergency shelter use rising 12%](https://www.homelesshub.ca/community-profile/canada) in just one year (2022-2023), while [Ontario alone saw a 25% increase](https://www.homelesshub.ca/community-profile/ontario) in homelessness in two years—a crisis worsening with no solution in sight.
+
+In 2023, a study estimated 235,000 Canadians sleeping on the streets, under bridges, and without access to food or proper care. Meanwhile, tens of billions of taxpayer dollars continue to flow overseas, while vulnerable Canadians are left without support or solutions.
+
 
 #### **Child Care**
 Under Harper, [98% of Canadian parents were satisfied with child care](https://www.childcarecanada.org/documents/research-policy-practice/16/03/child-care-canada-2020-vision), but under Trudeau, [48% struggled with affordability](https://www.childcarecanada.org/publications/other-publications/21/04/national-child-care-survey), [36% couldn't find child care](https://www150.statcan.gc.ca/n1/daily-quotidien/220427/dq220427a-eng.htm), and overall satisfaction declined.
@@ -111,6 +113,18 @@ As of late 2023, [58% of Canadians](https://angusreid.org/trudeau-approval-septe
 
 #### **Cultural Decline**
 26% of young Canadians (18-34) feel deep national pride, compared to over 70% of older generations.
+
+#### **Eroding National Strength**
+Canada's military participation rate has steadily declined over the past two decades, now the lowest among G7 nations, with a critical shortfall of over 16,000 personnel.
+
+#### **Compelled Speech**
+Enacted in 2017, Bill C-16 introduced compelled speech laws, imposing fines for misaddressing individuals, regardless of intent.
+
+#### **Censorship**
+52% of Canadians admit to self-censoring, refraining from expressing their opinions out of fear of backlash, job loss, or social ostracization to avoid being labeled as "offensive."
+
+#### **Government Reliance**
+Over 50% of Canadians depend on some form of government subsidy or financial assistance.
 
 ---
 
@@ -620,13 +634,14 @@ Fast forward—[the CIA just admitted COVID was created in a lab](https://www.ws
 
 The irony is undeniable—we pretend COVID is a thing of the past, yet it never went away. It’s still here. The fact that life snapped back to normal so fast only proves how overhyped and catastrophically mismanaged the entire situation was.
 
-Wake up, people. They [lied about the origins](https://www.science.org/content/article/covid-19-origins-still-uncertain-key-studies-awaiting-release), they [lied about the vaccines](https://www.bmj.com/content/379/bmj.o2960), and they lied about the entire pandemic response. How much more proof do you need?
+They [lied about the origins](https://www.science.org/content/article/covid-19-origins-still-uncertain-key-studies-awaiting-release), they [lied about the vaccines](https://www.bmj.com/content/379/bmj.o2960), and they lied about the entire pandemic response. How much more proof do you need?
+
+#### **Sowing Division**
 
 [Justin Trudeau himself once said](https://rumble.com/vma7wr-trudeu-little-dirty-secrets-about-politics.html), “Do you want to know the dirty little secret about politics in the 21st century? Negative campaigning, attack ads, nastiness, and division work. If all you want to do is get elected, they will help you get elected. Attacking, dividing, sowing fear—picking and choosing wedge issues to drive through a community—all of it helps you win.”
 
 While many see Trudeau and his handlers as incompetent, this isn’t a bug in their strategy—it’s the feature. The setup is deliberate: divide the people, shift the blame away from themselves, and create an “us vs. them” narrative. Instead of being viewed as the perpetrator, they position themselves as the savior. Promising free money to everyone, call a snap election, and securing their continued reign of power, they are already discussing another ["pandemic type responses to the tariffs"](https://www.forexlive.com/news/canada-planning-covid-style-stimulus-if-us-enacts-tariffs-in-bid-to-avoid-early-election-20250128/), which again, is conveniently timed to the election. Brilliant.
 
-*I'll stop here, because this subject is its own rabbit hole for an entire other paper…!*
 
 ### Western Alienation is Reaching a Breaking Point
 
