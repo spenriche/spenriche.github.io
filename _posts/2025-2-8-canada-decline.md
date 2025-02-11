@@ -191,7 +191,8 @@ Nothing reflects Canada's waning economic clout more than the collapsing value o
 - A weaker dollar erodes purchasing power, making everything from groceries to vacations more expensive.
 - Imported goods—especially food and electronics—now cost significantly more, hammering Canadian households already struggling with inflation.
 - International markets see Canada as a fiscal dumpster fire, which is why our currency is tanking.
-- This is what happens when a government prioritizes ideology over economic reality.
+
+This is what happens when a government prioritizes ideology over economic reality.
 
 ![Alt text](/assets/images/canada/loonie.PNG)
 
@@ -287,29 +288,26 @@ The government's "solution" is mass immigration, but it's a short-term patch:
 - **Birth Rates Drop After One Generation** – Immigrant families quickly adopt Canada's low fertility trends.
 - **Wage Gaps Keep the Deficit Growing** – Many immigrants work low-wage jobs, contributing less in taxes while relying on government services.
 
-**The Bottom Line**
-
-Canada's collapsing birth rate isn't a choice—it's a forced decision driven by an unlivable economy. If things don't change, the next generation won't exist to fix it.
 
 ## Canada's Descent into Authoritarianism: Government Overreach, Censorship, and Bureaucratic Bloat
 
-The Liberal government hasn't just failed—it has actively eroded freedoms, silenced dissent, and expanded state control to an unprecedented degree. What was once a country that championed liberty is now a nation where the government freezes bank accounts, censors speech, and crushes opposition with brute force.
-
-### The Emergencies Act: Canada's Darkest Chapter
-In 2022, Trudeau did what no Prime Minister had ever done before—he invoked the [Emergencies Act](https://www.justice.gc.ca/eng/csj-sjc/emergencies-urgences.html) to silence peaceful protest. The [Freedom Convoy](https://www.cbc.ca/news/politics/emergencies-act-inquiry-report-1.6780051), a demonstration against draconian pandemic policies, was met not with dialogue but with the full force of the state.
+In 2022, Trudeau did what no Prime Minister had ever done before—he invoked the Emergencies Act to silence peaceful protest. The Freedom Convoy, a demonstration against draconian pandemic policies, was met not with dialogue but with the full force of the state.
 
 - [Bank accounts of ordinary Canadians were frozen](https://www.ctvnews.ca/politics/at-least-76-financial-accounts-frozen-since-emergencies-act-invoked-1.5788435)—not criminals, not terrorists, but citizens who dared to donate to a cause the government disapproved of.
 - A [federal judge later ruled](https://www.cbc.ca/news/politics/emergencies-act-federal-court-ruling-1.7093594) the move "unreasonable and ultra vires"—there was no national emergency, meaning the government knowingly trampled Charter rights for political convenience.
 - To this day, [Trudeau defends his actions](https://www.theglobeandmail.com/politics/article-trudeau-emergencies-act-ruling-appeal/) and is appealing the ruling—doubling down on the most authoritarian overreach in modern Canadian history.
-- The message was clear: challenge the regime, and you'll be treated like an enemy of the state.
+
+The message was clear: **challenge the regime, and you'll be treated like an enemy of the state.**
 
 ### State-Controlled Media: Bought and Paid For
 
-- Freedom of the press? Not in Canada. In 2018, the Trudeau government [bailed out select media outlets](https://www.canada.ca/en/canadian-heritage/services/funding/canadian-periodical-fund.html) with [$595 million in subsidies](https://www.cbc.ca/news/politics/journalists-question-media-bailout-1.5147761), ensuring that the press stays compliant.
+Freedom of the press? Not in Canada. In 2018, the Trudeau government [bailed out select media outlets](https://www.canada.ca/en/canadian-heritage/services/funding/canadian-periodical-fund.html) with [$595 million in subsidies](https://www.cbc.ca/news/politics/journalists-question-media-bailout-1.5147761), ensuring that the press stays compliant.
+
 - "Friendly" media get funding—critics get left in the cold.
 - Trudeau even [joked that journalists go easy on him](https://www.youtube.com/watch?v=SpY9vJuLmxU) because "we pay them $600 million." Not so funny when it's true.
 - The CBC, already propped up by over [$1 billion annually](https://www.cbc.ca/news/canada/toronto/cbc-subsidy-1.6668889), has become little more than a state propaganda arm.
-- The result? A media landscape reluctant to challenge the government while Canadians wonder whether they're getting the truth or government-scripted narratives.
+
+The result? A media landscape reluctant to challenge the government while Canadians wonder whether they're getting the truth or government-scripted narratives.
 
 ### Bill C-11: The Internet Censorship Bill
 
@@ -317,7 +315,8 @@ In 2022, Trudeau did what no Prime Minister had ever done before—he invoked th
 - The [CRTC now has power](https://crtc.gc.ca/eng/internet/) over YouTube, TikTok, and other platforms, deciding what content gets promoted or buried.
 - [Critics warn](https://openmedia.org/article/item/bill-c-11-will-harm-canadian-digital-creators) it opens the door to online censorship, allowing bureaucrats to manipulate search results, silence dissent, and dictate what is "acceptable" speech.
 - Even [liberal-leaning internet advocates oppose it](https://www.michaelgeist.ca/2022/06/bill-c-11-risks-undermining-canadas-creator-economy-and-its-international-trade-obligations/), calling it a dangerous step toward government-controlled digital spaces.
-- With [more speech laws](https://www.canada.ca/en/canadian-heritage/campaigns/harmful-online-content.html) on the way targeting "misinformation" and "online harms," Canada is marching toward a future where only state-approved opinions are safe.
+
+With [more speech laws](https://www.canada.ca/en/canadian-heritage/campaigns/harmful-online-content.html) on the way targeting "misinformation" and "online harms," Canada is marching toward a future where only state-approved opinions are safe.
 
 ### Bureaucratic Bloat: The Ever-Expanding Nanny State
 
