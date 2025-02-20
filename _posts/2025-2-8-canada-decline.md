@@ -320,23 +320,30 @@ With [more speech laws](https://www.canada.ca/en/canadian-heritage/campaigns/har
 
 ### Bureaucratic Bloat: The Ever-Expanding Nanny State
 
-- As freedoms shrink, government grows. Under Trudeau, the federal workforce has [exploded by 40%](https://www.canada.ca/en/treasury-board-secretariat/services/innovation/human-resources-statistics.html), ballooning from 257,000 employees in 2015 to over 357,000 by 2023.
+As freedoms shrink, government grows. Under Trudeau, the federal workforce has [exploded by 40%](https://www.canada.ca/en/treasury-board-secretariat/services/innovation/human-resources-statistics.html), ballooning from 257,000 employees in 2015 to over 357,000 by 2023.
+
+As of 2024, the Canada Revenue Agency (CRA) employs approximately 59,155 individuals, serving a population of 40 million—equating to one CRA employee for every 676 Canadians. In contrast, the U.S. Internal Revenue Service (IRS) has over 100,000 employees, serving a population of 334 million, or approximately one IRS employee for every 3,340 Americans. This means that, per capita, Canada has nearly five times as many tax enforcement personnel as the United States, highlighting a significantly larger bureaucratic presence relative to population size.
+
+
 - Government spending is at [record highs](https://www.fraserinstitute.org/studies/federal-government-spending-in-canada), but services haven't improved—passports take months, airports are chaos, and public sector strikes hold the country hostage.
 - Ottawa now employs more people than ever, yet private sector workers foot the bill while drowning in red tape.
 - [Public sector unions](https://www.canada.ca/en/treasury-board-secretariat/topics/collective-bargaining.html) are bigger and more militant, demanding more while delivering less to the people paying their salaries.
-- A bloated bureaucracy serves itself—not Canadians.
+
+A bloated bureaucracy serves itself—not Canadians.
 
 ### A Weak, Corrupt, and Divisive Government
 
 Beyond authoritarianism, Trudeau's leadership is defined by scandal, corruption, and arrogance.
 
-- The SNC-Lavalin scandal—Trudeau interfered in a criminal case to protect his political allies.
-- The WE Charity fiasco—hundreds of millions funneled to an organization with ties to the Prime Minister's family.
-- Multiple ethics violations—Trudeau has been found guilty more than any other sitting Prime Minister in history.
+- **The SNC-Lavalin scandal**—Trudeau interfered in a criminal case to protect his political allies.
+- **The WE Charity fiasco**—hundreds of millions funneled to an organization with ties to the Prime Minister's family.
+- **Multiple ethics violations**—Trudeau has been found guilty more than any other sitting Prime Minister in history.
+
 Instead of fixing Canada's crumbling economy, broken healthcare system, or skyrocketing cost of living, Trudeau's government focuses on:
-- Censoring critics.
-- Demonizing opponents as extremists.
-- Pushing vanity projects like securing UN seats.
+
+- **Censoring critics.**
+- **Demonizing opponents as extremists.**
+- **Pushing vanity projects like securing UN seats.**
 
 When challenged, the reflex is control, not correction—silence dissent, spin the narrative, and tighten the leash on Canadians.
 
