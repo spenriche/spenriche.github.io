@@ -21,7 +21,7 @@ Thanks for joining me on this journey—I’m excited to share, grow, and learn 
 
 I am an entrepreneur with over a decade of experience in the investment and construction industries, specializing in real estate investment and redevelopment. My focus is on acquiring and revitalizing underperforming grocery-anchored retail centers and office buildings in secondary and tertiary markets across North America, creating value and driving long-term growth.
 
-![Alt text](/assets/images/29.jpeg){: .small-image}
+![Alt text](/assets/images/291.jpeg){: .small-image}
 
 **My Professional Journey**
 
