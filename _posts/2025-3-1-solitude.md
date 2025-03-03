@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Solitude: Why Bright Minds Often Stand Apart"
-date: 2025-3-3
+date: 2025-3-1
 ---
 
 ![Alt text](/assets/images/solitude.PNG)
