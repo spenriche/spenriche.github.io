@@ -10,7 +10,7 @@ Democracy is often celebrated as the pinnacle of governance, a system designed t
 
 In this post, I present a argument for why democracy, as it is currently practiced, is an unsustainable form of governance, leading to a worsening cycle of dependency, inequality, and eventual collapse.
 
-## 1. Short-Term Thinking and the Election Cycle
+## Short-Term Thinking and the Election Cycle
 
 ### Election Cycles Drive Policy
 
@@ -83,7 +83,7 @@ These issues showcase democracy’s inherent focus on short-term electoral gains
 - **Erosion of Accountability:** Politicians prioritize the immediate satisfaction of voters, leaving systemic issues like pensions, climate, and debt unresolved, worsening societal and economic pressures.
 
 
-## 2. The Tragedy of the Commons in Public Resources
+## The Tragedy of the Commons in Public Resources
 
 ### Public vs. Private Ownership
 
@@ -99,7 +99,7 @@ Think about it, do you ever wash a rental car before returning it?
 
 ![Alt text](/assets/images/dem/4.PNG)
 
-## 3. The Tyranny of the Majority
+## The Tyranny of the Majority
 
 ### Oppression by Popular Demand
 
@@ -145,7 +145,7 @@ This stark contrast highlights how voluntary cooperation and economic freedom cr
 ![Alt text](/assets/images/dem/7.PNG)
 <span style="display: block; text-align: center; font-size: 15px; color: #888; margin-top: 5px; font-style: italic;"> North VS South Korea at night</span>
 
-## 4. The Expanding Welfare State
+## The Expanding Welfare State
 
 ### Vote-Buying Through Benefits
 
@@ -177,7 +177,7 @@ As the number of benefit recipients increases, the burden of taxes and regulatio
   </iframe>
 </div>
 
-## 5. The Debt Spiral
+## The Debt Spiral
 
 ### Financing Government Through Borrowing
 
@@ -193,7 +193,7 @@ Eventually, debt reaches unsustainable levels. Future generations inherit an eco
 
 ![Alt text](/assets/images/dem/8.PNG)
 
-## 6. Regulatory Capture and Crony Capitalism
+## Regulatory Capture and Crony Capitalism
 
 ### Special Interests Reign Supreme
 
@@ -203,7 +203,7 @@ In democratic systems, politicians rely on campaign contributions and voter supp
 
 Rather than allowing fair competition, democratic governments often pick winners and losers through lobbying and favorable legislation. This not only breeds resentment but also distorts markets, discouraging innovation and effective resource allocation.
 
-## 7. Inflation as Hidden Taxation
+## Inflation as Hidden Taxation
 
 ### Monetary Expansion
 
@@ -228,7 +228,7 @@ Wealthy asset holders tend to benefit from rising prices, while wage earners and
 
 *[hardmoneyfilm.com](https://www.hardmoneyfilm.com/)*
 
-## 8. The Myth of Political Equality
+## The Myth of Political Equality
 
 ### Unequal Influence
 
@@ -238,7 +238,7 @@ While democracy purports to give every individual an equal voice, in practice, w
 
 As inequities persist and special interests capture political institutions, public trust in democratic processes declines. This growing disillusionment feeds calls for more state intervention, ironically aggravating the very problems it aims to solve.
 
-## 9. Moral Hazard for Politicians and Voters
+## Moral Hazard for Politicians and Voters
 
 ### No Personal Stakes
 
@@ -248,7 +248,7 @@ Democratic leaders do not face personal liability for the consequences of their 
 
 Voters, too, face little accountability. Many will support welfare expansions or spending hikes without considering the future tax burdens or inflation that accompany them. This dynamic fosters a culture of risk-free policy-making and exacerbates government overreach.
 
-## 10. Centralization and Bureaucratic Inefficiency
+## Centralization and Bureaucratic Inefficiency
 
 ### Creeping Centralization
 
@@ -271,7 +271,7 @@ As of September 2024, Canada's public sector accounts for **21% of the workforce
 ![Alt text](/assets/images/dem/9.PNG)
 <span style="display: block; text-align: center; font-size: 15px; color: #888; margin-top: 5px; font-style: italic;"> Canada Public VS Private Sector Employment </span>
 
-## 11. The Slow Erosion of Liberty
+## The Slow Erosion of Liberty
 
 ### Taxation, Regulation, Surveillance
 
@@ -325,7 +325,7 @@ Collaboration between federal agencies and tech companies to regulate misinforma
 **Soft Tyranny:**
 Increasing government control through expanded welfare programs and surveillance has led to growing dependence on state systems, with critics warning of diminished individual agency and economic stagnation.
 
-## 12. The Endgame: Collapse or Transformation
+## The Endgame: Collapse or Transformation
 
 If these trends continue unchecked, democracy often faces one of the following outcomes:
 
@@ -339,7 +339,7 @@ If these trends continue unchecked, democracy often faces one of the following o
 <span style="display: block; text-align: center; font-size: 15px; color: #888; margin-top: 5px; font-style: italic;"> Illustrating the collapse of the Roman Empire, symbolizing the fall of one of history's greatest civilizations. </span>
 
 
-## 13. Is There an Alternative?
+## Is There an Alternative?
 
 [Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Democracy:_The_God_That_Failed) proposes a decentralized natural order based on private property, voluntary exchange, and localized governance. Under this model:
 
@@ -351,7 +351,7 @@ If these trends continue unchecked, democracy often faces one of the following o
 
 Such an arrangement aims to eliminate the systemic triggers for short-termism, debt, and cronyism that plague modern democracies.
 
-## 14. Why Democracy Is Unsustainable
+## Why Democracy Is Unsustainable
 
 ### Summarizing the core criticisms:
 
