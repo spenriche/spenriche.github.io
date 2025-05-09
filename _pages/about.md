@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About  # This will be used for navigation
-browser_title: Spencer Riche | About  # This will be used for the browser tab
+browser_title: About  # This will be used for the browser tab
 permalink: /about/
 includelink: true
 ---
